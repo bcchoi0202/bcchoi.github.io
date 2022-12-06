@@ -5,24 +5,24 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: James Grant
-title: Full Stack Web Developer
-email: james@jameswgrant.co.uk
+name: 최병철
+title: Android Developer
+email: bcchoi0202@gmail.com
 
 # Social links
-twitter_username: sproogen
-github_username:  sproogen
+#twitter_username: sproogen
+github_username:  bcchoi8658
 # dribbble_username:
 # facebook_username:
 # flickr_username:
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: byungchul0202
+#linkedin_username: jameswgrant
 # pinterest_username:
 # youtube_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/jg2.jpg
+about_profile_image: https://user-images.githubusercontent.com/79304650/151269762-8c641a31-fcbe-47e4-b34d-be1a1192551d.jpg
 about_content: |
   Hi, my name is James Grant, I'm a full stack web developer with over 9 years experience currently specialising in React development.
   I am currently working for NatWest as a Lead Frontend Software Engineer on their comercial banking platform, Bankline.
