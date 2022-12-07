@@ -26,14 +26,15 @@ instagram_username: byungchul0202
 # about_title: About Me
 # about_profile_image: 
 about_content: |
-  안녕하세요, 클린코드 및 클린아키텍처에 관심이 많은 9년차 안드로이드 개발자 최병철입니다.
-  
-  Hi, my name is James Grant, I'm a full stack web developer with over 9 years experience currently specialising in React development.
-  I am currently working for NatWest as a Lead Frontend Software Engineer on their comercial banking platform, Bankline.
-  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
-  I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience.
-  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
-  with something new. The things that I currently have the most experience working with are:
+  **저는 이런 개발자입니다.**
+  - 설계보다는 개발부터 시작해서 결과를 보며 반복적으로 리팩토링 하는 편입니다.
+  - 이론보다는 직접 부딪혀보고 문제를 해결하면서 체득하는 편입니다.
+  - 일관성, 코딩 컨벤션을 지키기 위해 노력합니다.
+  - 사용자 관점을 최우선으로 생각하는 편입니다.
+  - 새로운 기술과 도구(Tools)를 배우고 도입하는 일에 적극적인 편입니다.
+  - 최대한 합리적인 방법을 찾는 편입니다.
+  - 생산성이 저하되는 요소를 찾아 제거하기 위해 노력하는 편입니다.
+  - 풀리지 않는 문제가 있으면 자면서도 생각하는 편입니다.
   <mark>ES6 Javascript</mark>,
   <mark>React &amp; Redux</mark>,
   <mark>Node.js</mark>,
