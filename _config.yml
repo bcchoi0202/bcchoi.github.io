@@ -6,8 +6,7 @@ version: 2
 
 # Personal info
 name: 최병철
-title: Android Developer
-subtitle: 8년 2개월
+title: Android Developer<mark>8년 2개월</mark>
 email: bcchoi0202@gmail.com
 phone: 010-6411-8658
 
