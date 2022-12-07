@@ -22,7 +22,7 @@ instagram_username: byungchul0202
 # youtube_username:
 
 #About Section
-about_title: I am...
+about_title: 저는요...
 about_profile_image: images/me.jpg
 about_content: |
   안녕하세요, 9년차 개발자 최병철입니다. 
@@ -32,6 +32,41 @@ about_content: |
   - 새로운 기술을 배우고 도입하는 일에 적극적입니다.
   - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많습니다.
 content:
+  - title: 보유기술
+    layout: list
+    content:
+      - layout: text
+        title: Android
+
+      - layout: text
+        title: Java
+
+      - layout: text
+        title: Kotlin
+
+      - layout: text
+        title: Databinding
+
+      - layout: text
+        title: MVVM
+
+      - layout: text
+        title: AAC ViewModel
+
+      - layout: text
+        title: RxJava
+
+      - layout: text
+        title: LiveData
+
+      - layout: text
+        title: Coroutine
+
+      - layout: text
+        title: Flow
+
+      - layout: text
+        title: Jetpack Compose
   - title: Projects # Title for the section
     layout: list
     content:
