@@ -22,7 +22,7 @@ instagram_username: byungchul0202
 # youtube_username:
 
 #About Section
-about_title: 저는요...
+about_title: About me
 about_profile_image: images/me.jpg
 about_content: |
   안녕하세요, 9년차 개발자 최병철입니다. 
@@ -35,23 +35,20 @@ content:
   - title: 보유기술
     layout: list
     content:
-      - layout: text
-        title: Android
+      - layout: left
+        title: Language
+        sub_title: Java, Kotlin
+
+      - layout: left
+        title: 3rd Party Libs
+        sub_title: View/Databinding, Jetpack AAC, Jetpack Compose,
+
+      - layout: left
+        title: Architecture-Design-Pattern
+        sub_title: MVC, MVP, MVVM
 
       - layout: text
-        title: Java
-
-      - layout: text
-        title: Kotlin
-
-      - layout: text
-        title: Databinding
-
-      - layout: text
-        title: MVVM
-
-      - layout: text
-        title: AAC ViewModel
+        title:
 
       - layout: text
         title: RxJava
