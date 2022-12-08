@@ -35,44 +35,42 @@ content:
   - title: Skills
     layout: list
     content:
-      - layout: list
-        title: Language
+      - title: Language
+        layout: list
         content:
-        - layout: left
-          title: Java
-        - layout: left
-          title: Kotlin
-      - layout: list
-        title: 3rd party libraries
+        - title: Java
+          layout: left
+        - title: Kotlin
+          layout: left
+      - title: 3rd party libraries
+        layout: list
         content:
-          - layout: left
-            title: View/Databinding
-          - layout: left
-            title: Jetpack Libs(AAC, Compose)
-          - layout: left
-            title: Rx, Coroutine
-          - layout: left
-            title: Livedata, Flow
-      - layout: list
-        title: Design-Pattern
+          - title: View/Databinding
+            layout: left
+          - title: Jetpack Libs(AAC, Compose)
+            layout: left
+          - title: Rx, Coroutine
+            layout: left
+          - title: Livedata, Flow
+            layout: left
+      - title: Design-Pattern
+        layout: list
         content:
-          - layout: left
-            title: View/Databinding
-          - layout: left
-            title: MVC
-          - layout: left
-            title: MVP
-          - layout: left
-            title: MVVM
-          - layout: left
-            title: MVI(~ing)
-      - layout: list
-        title: DI
+          - title: MVC
+            layout: left
+          - title: MVP
+            layout: left
+          - title: MVVM
+            layout: left
+          - title: MVI(~ing)
+            layout: left
+      - title: DI
+        layout: list
         content:
-          - layout: left
-            title: Koin
-          - layout: left
-            title: Hilt
+          - title: Koin
+            layout: left
+          - title: Hilt
+            layout: left
 
   - title: Projects # Title for the section
     layout: list
