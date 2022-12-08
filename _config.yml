@@ -32,20 +32,20 @@ about_content: |
   - 새로운 기술을 배우고 도입하는 일에 적극적입니다.
   - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많습니다.
 content:
-  - title: 보유기술
+  - title: Skills
     layout: list
     content:
       - layout: left
         title: Language
-        sub_title: Java, Kotlin
+        description: -Java, Kotlin
 
       - layout: left
-        title: 3rd Party Libs
-        sub_title: View/Databinding, Jetpack AAC, Jetpack Compose,
+        title: 3rd party libraries
+        description: -View/Databinding\n* Jetpack AAC\nJetpack Compose
 
       - layout: left
-        title: Architecture-Design-Pattern
-        sub_title: MVC, MVP, MVVM
+        title: Design-Pattern
+        description: MVC, MVP, MVVM
 
       - layout: text
         title:
