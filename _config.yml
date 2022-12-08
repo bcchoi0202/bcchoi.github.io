@@ -128,12 +128,12 @@ content:
         content:
           - layout: list
             content:
-              - layout: top-middle
-                title: Bixolon Label Printer SDK 개발
-              - layout: top-middle
-                title: Bixolon Label Printer SDK 개발
-              - layout: top-middle
-                title: Bixolon Label Printer SDK 개발
+              - layout: text
+                content: Bixolon Label Printer SDK 개발
+              - layout: text
+                content: Bixolon Label Printer SDK 개발
+              - layout: text
+                content: Bixolon Label Printer SDK 개발
       - layout: left
         border: weak
         title: (주)진코퍼레이션
