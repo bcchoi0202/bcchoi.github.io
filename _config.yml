@@ -125,12 +125,10 @@ content:
         sub_title: Android Developer
         link: https://www.bixolon.com/
         caption: 2018.03 ~ 2021.03
-        content:
-          - layout: list
-            content:
-              - Bixolon Label Printer SDK 개발
-              - Bixolon Label Printer SDK 개발
-              - Bixolon Label Printer SDK 개발
+        content: |
+          * Bixolon Label Printer SDK 개발
+          * Bixolon Label Printer SDK 개발
+          * Bixolon Label Printer SDK 개발
       - layout: left
         border: weak
         title: (주)진코퍼레이션
