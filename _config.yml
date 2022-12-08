@@ -122,7 +122,7 @@ content:
           > 다모음 App 신규 Feature 개발/운영 및 개선  
             *Used skill stack*  
             Language : <mark>Kotlin</mark>, <mark>Kotlin DSL</mark>   
-            Libraries : <mark>Retrofit</mark>, <mark>Glide</mark>, <mark>rxJava</mark>, <mark>LiveData</mark>, <mark>View/DataBinding</mark>, <mark>Jetpack AAC</mark>, <mark>Jetpack Compose</mark>등  
+            Libraries : <mark>Retrofit</mark>, <mark>Glide</mark>, <mark>rxJava</mark>, <mark>LiveData</mark>, <mark>View/DataBinding</mark>, <mark>Jetpack AAC</mark>, <mark>Jetpack Compose</mark> 등  
             DI : <mark>Hilt</mark>  
             Architecture : <mark>MVVM</mark>
       - layout: left
@@ -171,7 +171,7 @@ content:
           > SPC 계열사의 Mobile POS 및 주문 시스템 개발 및 유지보수  
             *Used skill stack*  
             Language : <mark>Java</mark>  
-            Libraries : <mark>log4j</mark>, <mark>AChartEngine</mark>, <mark>log4j</mark> 등  
+            Libraries : <mark>log4j</mark>, <mark>AChartEngine</mark> 등  
             Architecture : <mark>MVC</mark>
   - title: Education
     layout: list
