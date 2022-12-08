@@ -40,17 +40,29 @@ content:
         description: |
           Java, Kotlin
       - layout: left
-        sub_title: 3rd party libraries
+        sub_title: View
         description: |
-          View/Databinding, Jetpack AAC, Jetpack Compose, Rx(Java/Android), Coroutine, Livedata, Flow
+          View/Databinding, Jetpack AAC, Jetpack Compose
       - layout: left
-        sub_title: Design-Pattern
+        sub_title: Stream
+        description: |
+          rx(Java/Android)/Livedata, Coroutine/Flow
+      - layout: left
+        sub_title: Architecture
         description: |
           MVC, MVP, MVVM, MVI(~ing)
       - layout: left
         sub_title: DI
         description: |
           Koin, Hilt
+      - layout: left
+        sub_title: Design
+        description: |
+          Zeplin, Figma
+      - layout: left
+        sub_title: SCM
+        description: |
+          Svn, Git
 
 #  - title: Experience
 #    layout: list
@@ -86,13 +98,16 @@ content:
 #          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
 #          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
 #          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+
+
   - title: Experience
     layout: list
     content:
       - layout: left
         border: weak
-        title: [(주)다날](https://www.danal.co.kr/)
+        title: (주)다날
         sub_title: Android Developer
+        link: https://www.danal.co.kr/
         caption: 2022.03 ~ 현재
         description: |
           Taken
@@ -108,10 +123,17 @@ content:
         border: weak
         title: (주)Bixolon
         sub_title: Android Developer
-        link: www.bixolon.com
+        link: https://www.bixolon.com/
         caption: 2018.03 ~ 2021.03
-        description: |
-          During
+        content:
+          - layout: list
+            content:
+              - layout: top-middle
+                title: Bixolon Label Printer SDK 개발
+              - layout: top-middle
+                title: Bixolon Label Printer SDK 개발
+              - layout: top-middle
+                title: Bixolon Label Printer SDK 개발
       - layout: left
         border: weak
         title: (주)진코퍼레이션
