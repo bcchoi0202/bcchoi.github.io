@@ -130,9 +130,11 @@ content:
           * McDonald's(미국), Lotte GRS 계열사 유통기한 라벨링 App 개발
           * 마켓컬리 주문 체크 라벨링 App 개발
           * 라벨 디자인 App 개발
-          > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선
-            주로 <mark>Java</mark>, <mark>Kotlin</mark> 언어로 개발하였으며, <mark>Retrofit</mark>, 
-            <mark>Glide</mark> 등의 라이브러리를 사용하였고, <mark>MVVM</mark>/<mark>MVP</mark>로 개발하였습니다. 
+          > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선  
+            ###Used skill stack  
+            Language : <mark>Java</mark>, <mark>Kotlin</mark>  
+            Libraries : <mark>Retrofit</mark>, <mark>Glide</mark>  
+            Architecture : <mark>MVVM</mark>, <mark>MVP</mark>
 
       - layout: left
         border: weak
@@ -141,8 +143,14 @@ content:
         link: http://zin.co.kr/
         caption: 2014.01 ~ 2017.09
         description: |
-          I was asked
-
+          * 파리바게트/파리크라상 점포 컨설팅 App 개발(관리자/슈퍼바이저 용)
+          * 국내 파리크라상 계열 브랜드용 Mobild POS App 개발 (점주/매니저 용)
+          * 중국 Tamati Mobile Order App 개발(홀 - 주방 프린터 연동)
+          > SPC 계열사의 Mobile POS 및 주문 시스템 개발 및 유지보수
+            ###Used skill stack
+            Language : <mark>Java</mark>  
+            Libraries : <mark>log4j</mark>, <mark>AChartEngine</mark>, <mark>log4j</mark> 
+            Architecture : <mark>MVC</mark>
   - title: Education
     layout: list
     content:
