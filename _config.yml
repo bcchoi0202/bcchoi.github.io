@@ -130,8 +130,9 @@ content:
           * McDonald's(미국), Lotte GRS 계열사 유통기한 라벨링 App 개발
           * 마켓컬리 주문 체크 라벨링 App 개발
           * 라벨 디자인 App 개발
-          > Bixolon Label Printer와 관련된 전반적인 Application 개발 및 유지보수, 개선작업을 진행하였습니다.
-          > 사용 기술 스택은 <mark>test1</mark>, <mark>test2</mark>, <mark>test3</mark> 입니다.
+          > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선
+            주로 <mark>Java</mark>, <mark>Kotlin</mark> 언어로 개발하였으며, <mark>Retrofit</mark>, 
+            <mark>Glide</mark> 등의 라이브러리를 사용하였고, <mark>MVVM</mark>/<mark>MVP</mark>로 개발하였습니다. 
 
       - layout: left
         border: weak
