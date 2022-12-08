@@ -126,10 +126,13 @@ content:
         link: https://www.bixolon.com/
         caption: 2018.03 ~ 2021.03
         description: |
-          > Bixolon Label Printer 용 **Sdk** 및 프린터 관련 **App* 개발
-          * Bixolon Label Printer SDK 개발
-          * Bixolon Label Printer SDK 개발
-          * Bixolon Label Printer SDK 개발
+          * Mobile printer용 결제 App 3사(KICC, NICE, KS-NET) 통합
+          * McDonald's(미국), Lotte GRS 계열사 유통기한 라벨링 App 개발
+          * 마켓컬리 주문 체크 라벨링 App 개발
+          * 라벨 디자인 App 개발
+          > Bixolon Label Printer와 관련된 전반적인 Application 개발 및 유지보수, 개선작업을 진행하였습니다.
+          > 사용 기술 스택은 <mark>test1</mark>, <mark>test2</mark>, <mark>test3</mark> 입니다.
+
       - layout: left
         border: weak
         title: (주)진코퍼레이션
