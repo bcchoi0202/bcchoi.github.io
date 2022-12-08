@@ -34,29 +34,21 @@ about_content: |
 content:
   - title: Skills
     layout: list
+    border: weak
     content:
       - layout: left
-        border: weak
         sub_title: Language
         description: |
           Java, Kotlin
       - layout: left
-        border: weak
-        sub_title: Language
-        description: |
-          3rd party libraries
-      - layout: left
-        border: weak
-        sub_title: Language
+        sub_title: 3rd party libraries
         description: |
           View/Databinding, Jetpack AAC, Jetpack Compose, Rx(Java/Android), Coroutine, Livedata, Flow
       - layout: left
-        border: weak
         sub_title: Design-Pattern
         description: |
           MVC, MVP, MVVM, MVI(~ing)
       - layout: left
-        border: weak
         sub_title: DI
         description: |
           Koin, Hilt
