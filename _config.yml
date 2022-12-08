@@ -118,7 +118,15 @@ content:
         sub_title: Android Developer
         caption: 2021.07 ~ 2022.02
         description: |
-          Workin
+          * Signage 기기 제어용 Launcher App 개발
+          * Signage 기기 광고 재생용 Player App 개발
+          > Rainus의 자체 Signage Device 용 Launcher 및 Player App을 개발 및 개선   
+            *Used skill stack*  
+            Language : <mark>Kotlin</mark>  
+            Libraries : <mark>Retrofit</mark>, <mark>Glide</mark>, <mark>rxJava</mark>, <mark>LiveData</mark>, <mark>View/DataBinding</mark> 등  
+            DI : <mark>Koin</mark>  
+            Architecture : <mark>MVVM</mark>, <mark>MVP</mark>
+
       - layout: left
         border: weak
         title: (주)Bixolon
@@ -131,7 +139,7 @@ content:
           * 마켓컬리 주문 체크 라벨링 App 개발
           * 라벨 디자인 App 개발
           > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선  
-            ###Used skill stack  
+            *Used skill stack*  
             Language : <mark>Java</mark>, <mark>Kotlin</mark>  
             Libraries : <mark>Retrofit</mark>, <mark>Glide</mark>  
             Architecture : <mark>MVVM</mark>, <mark>MVP</mark>
@@ -147,9 +155,9 @@ content:
           * 국내 파리크라상 계열 브랜드용 Mobild POS App 개발 (점주/매니저 용)
           * 중국 Tamati Mobile Order App 개발(홀 - 주방 프린터 연동)
           > SPC 계열사의 Mobile POS 및 주문 시스템 개발 및 유지보수
-            ###Used skill stack
+            *Used skill stack*  
             Language : <mark>Java</mark>  
-            Libraries : <mark>log4j</mark>, <mark>AChartEngine</mark>, <mark>log4j</mark> 
+            Libraries : <mark>log4j</mark>, <mark>AChartEngine</mark>, <mark>log4j</mark> 등  
             Architecture : <mark>MVC</mark>
   - title: Education
     layout: list
