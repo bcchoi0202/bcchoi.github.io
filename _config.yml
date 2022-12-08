@@ -91,8 +91,7 @@ content:
     content:
       - layout: left
         border: weak
-        title: (주)다날
-        link: https://www.danal.co.kr/
+        title: [(주)다날](https://www.danal.co.kr/)
         sub_title: Android Developer
         caption: 2022.03 ~ 현재
         description: |
@@ -117,6 +116,7 @@ content:
         border: weak
         title: (주)진코퍼레이션
         sub_title: Android Development
+        link: http://zin.co.kr/
         caption: 2014.01 ~ 2017.09
         description: |
           I was asked
