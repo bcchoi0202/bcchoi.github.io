@@ -125,7 +125,8 @@ content:
         sub_title: Android Developer
         link: https://www.bixolon.com/
         caption: 2018.03 ~ 2021.03
-        content: |
+        description: |
+          > Bixolon Label Printer 용 **Sdk** 및 프린터 관련 **App* 개발
           * Bixolon Label Printer SDK 개발
           * Bixolon Label Printer SDK 개발
           * Bixolon Label Printer SDK 개발
