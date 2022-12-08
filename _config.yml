@@ -37,33 +37,21 @@ content:
     content:
       - layout: left
         title: Language
-        description: -Java, Kotlin
-
+        description: Java  Kotlin
       - layout: left
         title: 3rd party libraries
-        description: -View/Databinding\n* Jetpack AAC\nJetpack Compose
-
+        description: View/Databinding  Jetpack AAC  Jetpack Compose
       - layout: left
         title: Design-Pattern
         description: MVC, MVP, MVVM
-
-      - layout: text
-        title:
-
       - layout: text
         title: RxJava
-
       - layout: text
         title: LiveData
-
       - layout: text
         title: Coroutine
-
       - layout: text
         title: Flow
-
-      - layout: text
-        title: Jetpack Compose
   - title: Projects # Title for the section
     layout: list
     content:
