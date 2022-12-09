@@ -35,15 +35,15 @@ content:
   - title: Skills
     layout: list
     content:
-      - layout: left
+      - layout: top-left
         sub_title: Language
         description: |
           <mark>Java</mark> <mark>Kotlin</mark>
-      - layout: left
+      - layout: top-left
         sub_title: View
         description: |
           <mark>View/Databinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark>
-      - layout: left
+      - layout: top-start
         sub_title: Stream
         description: |
           <mark>rxJava</mark> <mark>Livedata</mark> <mark>Coroutine</mark> <mark>Flow</mark>
