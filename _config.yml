@@ -94,7 +94,7 @@ content:
             * rxJava, LiveData -> Coroutine, Flow Migration
             * Kotlin DSL 적용
             * Koin -> Hilt Migration
-            * Compose Migration 적용 중  
+            * Compose Migration 중  
           > 다모음 App 신규 Feature 개발/운영 및 개선  
             **Used skill stack**  
             Language : <mark>Kotlin</mark> <mark>Kotlin DSL</mark>   
@@ -110,7 +110,8 @@ content:
         description: |
           * Signage 기기 제어용 Launcher App 개발
           * Signage 기기 광고 재생용 Player App 개발  
-          > Rainus의 자체 Signage Device 용 Launcher 및 Player App 개발 및 개선  
+          > Rainus의 자체 Signage Device 용 Launcher 및 Player App 개발 및 개선
+              
             **Used skill stack**  
             Language : <mark>Kotlin</mark>  
             Libraries : <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> 등  
