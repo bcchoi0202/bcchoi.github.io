@@ -31,6 +31,7 @@ about_content: |
   - 사용자 관점을 최우선으로 생각하고 고민합니다.
   - 새로운 기술을 배우고 도입하는 일에 적극적입니다.
   - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많습니다.
+  - "함께"의 재미를 알고 소통을 즐깁니다.
 content:
   - title: Skills
     layout: list
@@ -42,7 +43,7 @@ content:
       - layout: left
         sub_title: View
         description: |
-          <mark>View/Databinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark>
+          <mark>View/Databinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark>
       - layout: left
         sub_title: Stream
         description: |
@@ -56,6 +57,10 @@ content:
         description: |
           <mark>Koin</mark> <mark>Hilt</mark>
       - layout: left
+        sub_title: Test
+        description: |
+          <mark>Junit</mark> <mark>Espresso</mark> <mark>Mockito</mark>
+      - layout: left
         sub_title: Design
         description: |
           <mark>Zeplin</mark> <mark>Figma</mark>
@@ -67,43 +72,10 @@ content:
         sub_title: Communication
         description: |
           <mark>Jira</mark> <mark>Slack</mark>
-
-#  - title: Experience
-#    layout: list
-#    content:
-#      - layout: top-middle
-#        border: weak
-#        title: Modern Resume Theme
-#        link: sproogen.github.io/modern-resume-theme
-#        additional_links:
-#          - title: sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: https://github.com/sproogen/modern-resume-theme
-#        quote: >
-#          A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
-#        description: |
-#          This is a <mark>Jekyll</mark> theme that I have recently created, in fact it is what this resume has been built with.
-#          I decided I wanted to learn how to create a fully open source project and thought that this would be the perfect project to do this with.
-#          It has allowed me to share something I have created in a way that will be helpful for lots of people while also learning from this myself.
-#      - layout: top-middle
-#        title: itsgoingto.be
-#        link: www.itsgoingto.be
-#        additional_links:
-#          - title: sproogen/itsgoingto.be
-#            icon: fab fa-github
-#            url: https://github.com/sproogen/itsgoingto.be
-#        quote: >
-#          itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-#          can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
-#        description: |
-#          The API for this site has been build using <mark>Node.js</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
-#          I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
-#          a suite of unit and API tests for the backend and unit tests for the front end.
-#          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
-#          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
-#          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
-
-
+      - layout: left
+        sub_title: Management
+        description: |
+          <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>
   - title: Experience
     layout: list
     content:
@@ -144,7 +116,6 @@ content:
             Libraries : <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> 등  
             DI : <mark>Koin</mark>  
             Architecture : <mark>MVVM</mark> <mark>MVP</mark>
-
       - layout: left
         border: weak
         title: (주)Bixolon
@@ -161,7 +132,6 @@ content:
             Language : <mark>Java</mark> <mark>Kotlin</mark>  
             Libraries : <mark>Retrofit</mark> <mark>Glide</mark>  
             Architecture : <mark>MVVM</mark> <mark>MVP</mark>
-
       - layout: left
         border: weak
         title: (주)진코퍼레이션
