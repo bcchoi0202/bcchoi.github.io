@@ -38,31 +38,31 @@ content:
       - layout: left
         sub_title: Language
         description: |
-          <mark>Java</mark> | <mark>Kotlin</mark>
+          <mark>Java</mark>, <mark>Kotlin</mark>
       - layout: left
         sub_title: View
         description: |
-          <mark>View/Databinding</mark> | <mark>Jetpack AAC</mark> | <mark>Jetpack Compose</mark>
+          <mark>View/Databinding</mark>, <mark>Jetpack AAC</mark>, <mark>Jetpack Compose</mark>
       - layout: left
         sub_title: Stream
         description: |
-          <mark>rxJava</mark>, <mark>Livedata</mark> | <mark>Coroutine</mark> | <mark>Flow</mark>
+          <mark>rxJava</mark>, <mark>Livedata</mark>, <mark>Coroutine</mark>, <mark>Flow</mark>
       - layout: left
         sub_title: Architecture
         description: |
-          <mark>MVC</mark> | <mark>MVP</mark> | <mark>MVVM</mark> | <mark>MVI(~ing)</mark>
+          <mark>MVC</mark>, <mark>MVP</mark>, <mark>MVVM</mark>, <mark>MVI(~ing)</mark>
       - layout: left
         sub_title: DI
         description: |
-          <mark>Koin</mark> | <mark>Hilt</mark>
+          <mark>Koin</mark>, <mark>Hilt</mark>
       - layout: left
         sub_title: Design
         description: |
-          <mark>Zeplin</mark> | <mark>Figma</mark>
+          <mark>Zeplin</mark>, <mark>Figma</mark>
       - layout: left
         sub_title: SCM
         description: |
-          <mark>Svn</mark> | <mark>Git</mark>
+          <mark>Svn</mark>, <mark>Git</mark>
 
 #  - title: Experience
 #    layout: list
@@ -121,9 +121,9 @@ content:
             * Compose Migration 적용 중
           > 다모음 App 신규 Feature 개발/운영 및 개선  
             *Used skill stack*  
-            Language : <mark>Kotlin</mark> | <mark>Kotlin DSL</mark>   
-            Libraries : <mark>Retrofit</mark> | <mark>Glide</mark> | <mark>rxJava</mark> | <mark>LiveData</mark> | <mark>View/DataBinding</mark> | <mark>Jetpack AAC</mark> | <mark>Jetpack Compose</mark> 등  
-            DI : <mark>Koin</mark> | <mark>Hilt</mark>  
+            Language : <mark>Kotlin</mark>, <mark>Kotlin DSL</mark>   
+            Libraries : <mark>Retrofit</mark>, <mark>Glide</mark>, <mark>rxJava</mark>, <mark>LiveData</mark>, <mark>View/DataBinding</mark>, <mark>Jetpack AAC</mark>, <mark>Jetpack Compose</mark> 등  
+            DI : <mark>Koin</mark>, <mark>Hilt</mark>  
             Architecture : <mark>MVVM</mark>
       - layout: left
         border: weak
@@ -137,9 +137,9 @@ content:
           > Rainus의 자체 Signage Device 용 Launcher 및 Player App 개발 및 개선   
             *Used skill stack*  
             Language : <mark>Kotlin</mark>  
-            Libraries : <mark>Retrofit</mark> | <mark>Glide</mark> | <mark>rxJava</mark> | <mark>LiveData</mark> | <mark>View/DataBinding</mark> 등  
+            Libraries : <mark>Retrofit</mark>, <mark>Glide</mark>, <mark>rxJava</mark>, <mark>LiveData</mark>, <mark>View/DataBinding</mark> 등  
             DI : <mark>Koin</mark>  
-            Architecture : <mark>MVVM</mark> | <mark>MVP</mark>
+            Architecture : <mark>MVVM</mark>, <mark>MVP</mark>
 
       - layout: left
         border: weak
@@ -154,9 +154,9 @@ content:
           * 라벨 디자인 App 개발
           > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선  
             *Used skill stack*  
-            Language : <mark>Java</mark> | <mark>Kotlin</mark>  
-            Libraries : <mark>Retrofit</mark> | <mark>Glide</mark>  
-            Architecture : <mark>MVVM</mark> | <mark>MVP</mark>
+            Language : <mark>Java</mark>, <mark>Kotlin</mark>  
+            Libraries : <mark>Retrofit</mark>, <mark>Glide</mark>  
+            Architecture : <mark>MVVM</mark>, <mark>MVP</mark>
 
       - layout: left
         border: weak
@@ -171,7 +171,7 @@ content:
           > SPC 계열사의 Mobile POS 및 주문 시스템 개발 및 유지보수  
             *Used skill stack*  
             Language : <mark>Java</mark>  
-            Libraries : <mark>log4j</mark> | <mark>AChartEngine</mark> 등  
+            Libraries : <mark>log4j</mark>, <mark>AChartEngine</mark> 등  
             Architecture : <mark>MVC</mark>
   - title: Education
     layout: list
