@@ -94,12 +94,14 @@ content:
             * Kotlin DSL 적용
             * Koin -> Hilt Migration
             * Compose Migration 중  
-          > 다모음 App 신규 Feature 개발/운영 및 개선  
-            **Used skill stack**  
-            Language : <mark>Kotlin</mark> <mark>Kotlin DSL</mark>   
-            Libraries : <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> 등  
-            DI : <mark>Koin</mark> <mark>Hilt</mark>  
-            Architecture : <mark>MVVM</mark>
+          
+          **Used skill stack**  
+            <mark>Kotlin</mark> <mark>Kotlin DSL</mark>   
+            <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> 등  
+            <mark>Koin</mark> <mark>Hilt</mark>  
+            <mark>MVVM</mark>
+          
+          > 다모음 App 신규 Feature 개발/운영 및 개선
       - layout: left
         border: weak
         title: Rainus
@@ -109,13 +111,11 @@ content:
         description: |
           * Signage 기기 제어용 Launcher App 개발
           * Signage 기기 광고 재생용 Player App 개발  
+          
+          **Used skill stack**  
+            <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark> <mark>MVP</mark>
+          
           > Rainus의 자체 Signage Device 용 Launcher 및 Player App 개발 및 개선
-              
-            **Used skill stack**  
-            Language : <mark>Kotlin</mark>  
-            Libraries : <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> 등  
-            DI : <mark>Koin</mark>  
-            Architecture : <mark>MVVM</mark> <mark>MVP</mark>
       - layout: left
         border: weak
         title: (주)Bixolon
@@ -127,11 +127,11 @@ content:
           * McDonald's(미국), Lotte GRS 계열사 유통기한 라벨링 App 개발
           * 마켓컬리 주문 체크 라벨링 App 개발
           * 라벨 디자인 App 개발  
-          > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선  
-            **Used skill stack**  
-            Language : <mark>Java</mark> <mark>Kotlin</mark>  
-            Libraries : <mark>Retrofit</mark> <mark>Glide</mark>  
-            Architecture : <mark>MVVM</mark> <mark>MVP</mark>
+          
+          **Used skill stack**  
+            <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVVM</mark> <mark>MVP</mark>
+          
+          > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선
       - layout: left
         border: weak
         title: (주)진코퍼레이션
@@ -142,11 +142,11 @@ content:
           * 파리바게트/파리크라상 점포 컨설팅 App 개발(관리자/슈퍼바이저 용)
           * 국내 파리크라상 계열 브랜드용 Mobild POS App 개발 (점주/매니저 용)
           * 중국 Tamati Mobile Order App 개발(홀 - 주방 프린터 연동)  
-          > SPC 계열사의 Mobile POS 및 주문 시스템 개발 및 유지보수  
-            **Used skill stack**  
-            Language : <mark>Java</mark>  
-            Libraries : <mark>log4j</mark> <mark>AChartEngine</mark> 등  
-            Architecture : <mark>MVC</mark>
+          
+          **Used skill stack**  
+            <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
+          
+          > SPC 계열사의 Mobile POS 및 주문 시스템 개발 및 유지보수
 
   - title: Education
     layout: list
