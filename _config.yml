@@ -96,7 +96,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: top-left
+      - layout: top-middle
         border: weak
         title: (주)다날
         sub_title: Android Developer
@@ -114,8 +114,8 @@ content:
             * Koin -> Hilt Migration
             * Compose Migration  
           
-            <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
-      - layout: top
+          <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
+      - layout: top-middle
         border: weak
         title: Rainus
         link: https://www.rainusbiz.com/ko/
@@ -127,7 +127,7 @@ content:
           
           <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark>
 
-      - layout: left-bottom
+      - layout: top-middle
         border: weak
         title: (주)Bixolon
         sub_title: Android Developer
@@ -143,7 +143,7 @@ content:
             <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVVM</mark> <mark>MVP</mark>
           
           > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선
-      - layout: left-top
+      - layout: top-middle
         border: weak
         title: (주)진코퍼레이션
         sub_title: Android Development
