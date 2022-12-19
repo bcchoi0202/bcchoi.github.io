@@ -36,10 +36,10 @@ content:
   - title: Skill-Stack
     layout: text
     content: |
-      |##Category|##Stack|
-      |###Language|<span style='background-color:#fbf595'> Java </span> <span style='background-color:#fbf595'> Kotlin </span>|
-      |###Architecture|<span style='background-color:#fbf595'> MVC </span> <span style='background-color:#fbf595'> MVP </span> <span style='background-color:#fbf595'> MVVM </span>|
-      |###DI|<span style='background-color:#fbf595'> Koin </span> <span style='background-color:#fbf595'> Hilt </span>|
+      |## Category|##Stack|
+      |### Language|<span style='background-color:#fbf595'> Java </span> <span style='background-color:#fbf595'> Kotlin </span>|
+      |### Architecture|<span style='background-color:#fbf595'> MVC </span> <span style='background-color:#fbf595'> MVP </span> <span style='background-color:#fbf595'> MVVM </span>|
+      |### DI|<span style='background-color:#fbf595'> Koin </span> <span style='background-color:#fbf595'> Hilt </span>|
       |###Networking|<span style='background-color:#fbf595'> Retrofit </span> <span style='background-color:#fcb7a3'> OkHttp </span> <span style='background-color:#fbf595'> Gson </span>|
       |###Stream|<span style='background-color:#fbf595'> rxJava </span> <span style='background-color:#fbf595'> rxKotlin </span> <span style='background-color:#fbf595'> rxAndroid </span> <span style='background-color:#fbf595'> Coroutine </span>|
       |###Jetpack|<span style='background-color:#fbf595'> Pager </span> <span style='background-color:#fcb7a3'> LiveData </span> <span style='background-color:#fcb7a3'> ViewModel </span> <span style='background-color:#fcb7a3'> Navigation </span> <span style='background-color:#fcb7a3'> LiveData </span> <span style='background-color:#fcb7a3'> Repository </span> <span style='background-color:#fcb7a3'> DataBinding </span> <span style='background-color:#fcb7a3'> Compose </span>|
