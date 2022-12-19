@@ -35,6 +35,19 @@ about_content: |
 content:
   - title: Skill-Stack
     layout: list
+    description: |
+      |Category|Stack|
+      |Language|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
+      |Architecture|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
+      |DI|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
+      |Networking|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
+      |Stream|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
+      |Jetpack|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
+      |Database|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
+      |Image|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
+      |Player|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
+      |Comunication|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
+      |Design|<span style="color:red>Zeplin</span>|
     content:
       - layout: top-left
         sub_title: Language
@@ -87,26 +100,30 @@ content:
         link: https://www.danal.co.kr/
         caption: 2022.03 ~ 현재
         description: |
-          *  포인트 충전 기능 개발 
-          * 실물 카드 발급/재발급/등록/분실신고 등 관련 서비스 개발 중
-          * 다모음 App 리팩토링
-            * Single module -> Multi module Migration
-            * Clean Architecture / Repository pattern Migration
-            * rxJava, LiveData -> Coroutine, Flow Migration
-            * Kotlin DSL 적용
-            * Koin -> Hilt Migration
-            * Compose Migration 중  
+          * 다모음 App 개발 및 유지보수
+            * 다모음 포인트 충전 기능 개발 
+            * 실물 카드 발급/재발급/등록/분실신고 등 실물 카드 관리 서비스 개발
+            * 다모음 App 리팩토링
+              * Single module -> Multi module Migration
+              * Clean Architecture / Repository pattern Migration
+              * rxJava, LiveData -> Coroutine, Flow Migration
+              * Kotlin DSL 적용
+              * Koin -> Hilt Migration
+              * Compose Migration  
           
           **Used skill stack**  
-            <mark>Kotlin</mark> <mark>Kotlin DSL</mark>   
+            <mark>Kotlin</mark> <mark>Kotlin DSL</mark>  
             <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> 등  
             <mark>Koin</mark> <mark>Hilt</mark>  
             <mark>MVVM</mark>  
-            <mark>Firebase</mark> <mark>AppsFlyer</mark>
+            <mark>Firebase</mark> <mark>AppsFlyer</mark>  
+          
           > 핵심 역량
-          > 다모음 App 신규 Feature 개발/운영 및 개선
+          > - 다모음 App 신규 Feature 개발/운영 및 개선
+          > - 레거시 코드 제거 및 신규 기술 스택 도입
+          > - 일 평균 DAU 5만  
 
-      - layout: top-left
+      - layout: top
         border: weak
         title: Rainus
         link: https://www.rainusbiz.com/ko/
@@ -121,7 +138,7 @@ content:
           
           > Rainus의 자체 Signage Device 용 Launcher 및 Player App 내 신규기능 개발 및 개선
 
-      - layout: top-left
+      - layout: left-bottom
         border: weak
         title: (주)Bixolon
         sub_title: Android Developer
@@ -137,7 +154,7 @@ content:
             <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVVM</mark> <mark>MVP</mark>
           
           > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선
-      - layout: top-left
+      - layout: left-top
         border: weak
         title: (주)진코퍼레이션
         sub_title: Android Development
@@ -168,7 +185,7 @@ content:
     layout: text
     content: | 
       책상에 앉아서 공부하는 날 외에는 캠핑, 낚시, 당구, 스노우보드, 서핑 등 활동적인 컨텐츠를 즐깁니다. 새로운 무언가에 도전하는것을 좋아하여 여러 분야의 사람들과 함께 스포츠를 즐기고, 배우곤 합니다.  
-      또한 사람들을 만나고, 맛있는 것을 먹고, 무언가를(?) 마시는 것도 좋아해서 활동적인 모임을 좋아하기도 합니다.  
+      또한 사람들을 만나고, 맛있는 것을 먹고, 무언가를(?) 마시는 것도 좋아해서 여러가지 활동적인 모임을 좋아하기도 합니다.  
       평일에는 가급적 책상과 가까이 붙어 있으려 노력하고, Side Project 또는 학습중인 기술에 대한 프로토타입 등을 만드는 등 이해도를 높여가는 시간을 갖습니다.
 
   - title: Finally
