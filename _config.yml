@@ -31,14 +31,9 @@ about_content: |
   - 새로운 기술을 배우고 검토 및 도입하는
   - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많은
   - "함께"의 재미를 알고 소통을 즐길 줄 아는
-  
-  **저는 이런 근무 환경을 선호합니다.**
-  - 출근과 퇴근시간을 본인이 결정할 수 있는
-  - 의사결정이 투명하게 이뤄지고 관련 정보의 공유가 수평적인
-  - 더욱 건강한 개발문화를 함께 만들어 가는 
 
 content:
-  - title: Skills
+  - title: Skill-Stack
     layout: list
     content:
       - layout: top-left
@@ -70,9 +65,9 @@ content:
         description: |
           <mark>Zeplin</mark> <mark>Figma</mark>
       - layout: left
-        sub_title: SCM
+        sub_title: VCS
         description: |
-          <mark>Svn</mark> <mark>Git</mark>
+          <mark>Svn</mark> <mark>Git</mark> <mark>Trello</mark>
       - layout: left
         sub_title: Communication
         description: |
@@ -80,19 +75,20 @@ content:
       - layout: left
         sub_title: Management
         description: |
-          <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>
+          <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>  
+
   - title: Experience
     layout: list
     content:
-      - layout: left
+      - layout: top-left
         border: weak
         title: (주)다날
         sub_title: Android Developer
         link: https://www.danal.co.kr/
         caption: 2022.03 ~ 현재
         description: |
-          * 다모음 App 내 포인트 충전 기능 개발 
-          * 다모음 App 내 실물카드 발급/재발급/등록/분실신고 등 관련 서비스 개발 중
+          *  포인트 충전 기능 개발 
+          * 실물 카드 발급/재발급/등록/분실신고 등 관련 서비스 개발 중
           * 다모음 App 리팩토링
             * Single module -> Multi module Migration
             * Clean Architecture / Repository pattern Migration
@@ -105,10 +101,12 @@ content:
             <mark>Kotlin</mark> <mark>Kotlin DSL</mark>   
             <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> 등  
             <mark>Koin</mark> <mark>Hilt</mark>  
-            <mark>MVVM</mark>
-          
+            <mark>MVVM</mark>  
+            <mark>Firebase</mark> <mark>AppsFlyer</mark>
+          > 핵심 역량
           > 다모음 App 신규 Feature 개발/운영 및 개선
-      - layout: left
+
+      - layout: top-left
         border: weak
         title: Rainus
         link: https://www.rainusbiz.com/ko/
@@ -119,10 +117,11 @@ content:
           * Signage 기기 광고 재생용 Player App 개발  
           
           **Used skill stack**  
-            <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark> <mark>MVP</mark>
+            <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark>
           
-          > Rainus의 자체 Signage Device 용 Launcher 및 Player App 개발 및 개선
-      - layout: left
+          > Rainus의 자체 Signage Device 용 Launcher 및 Player App 내 신규기능 개발 및 개선
+
+      - layout: top-left
         border: weak
         title: (주)Bixolon
         sub_title: Android Developer
@@ -138,7 +137,7 @@ content:
             <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVVM</mark> <mark>MVP</mark>
           
           > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선
-      - layout: left
+      - layout: top-left
         border: weak
         title: (주)진코퍼레이션
         sub_title: Android Development
