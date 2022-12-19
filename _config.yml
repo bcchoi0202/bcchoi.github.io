@@ -103,39 +103,29 @@ content:
         link: https://www.danal.co.kr/
         caption: 2022.03 ~ 현재
         description: |
-          **담당업무**
           * 다모음 App 개발 및 유지보수
-          * 다모음 포인트 충전 기능 개발 
-          * 실물 카드 발급/재발급/등록/분실신고 등 실물 카드 관리 서비스 개발
+          * 다모음 포인트 충전 기능 개발
+          * 실물 카드 관리 서비스 개발
           * 다모음 App 리팩토링
             * Single module -> Multi module Migration
             * Clean Architecture / Repository pattern Migration
             * rxJava, LiveData -> Coroutine, Flow Migration
             * Kotlin DSL 적용
             * Koin -> Hilt Migration
-            * Compose Migration    
+            * Compose Migration  
           
-            <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>  
-          
-          **핵심 역량**
-          > - 다모음 App 신규 Feature 개발/운영 및 개선
-          > - 레거시 코드 제거 및 신규 기술 스택 도입
-          > - 일 평균 DAU 4.8만 
-
+            <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
       - layout: top
         border: weak
         title: Rainus
         link: https://www.rainusbiz.com/ko/
         sub_title: Android Developer
         caption: 2021.07 ~ 2022.02
-        description: |
-          * Signage 기기 제어용 Launcher App 개발
-          * Signage 기기 광고 재생용 Player App 개발  
+        description: | 
+          * Rainus Player 내 상품 가격태그 표시 기능 개발
+            * 가격태그 관련 rating, reviews, advertise 등 컨텐츠 추가 및 제어
           
-          **Used skill stack**  
-            <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark>
-          
-          > Rainus의 자체 Signage Device 용 Launcher 및 Player App 내 신규기능 개발 및 개선
+          <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark>
 
       - layout: left-bottom
         border: weak
