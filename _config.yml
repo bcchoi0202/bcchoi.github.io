@@ -37,17 +37,17 @@ content:
     layout: text
     content: |
       |Category|Stack|
-      |Language|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
-      |Architecture|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
-      |DI|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
-      |Networking|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
-      |Stream|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
-      |Jetpack|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
-      |Database|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
-      |Image|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
-      |Player|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
-      |Comunication|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
-      |Design|<span style="color:red>Zeplin</span>|
+      |Language|<span style='background-color:#fbf595'>MVC</span>|
+      |Architecture|<span style='background-color:#fbf595'>MVC</span> <span style='background-color:#fbf595'>MVC</span> <span style='background-color:#fbf595'>MVC</span>|
+      |DI|<span style='background-color:#fbf595'>MVC</span> <span style='background-color:#fbf595'>MVC</span>|
+      |Networking|<span style='background-color:#fbf595'>MVC</span> <span style='background-color:#fbf595'>MVC</span>|
+      |Stream|<span style='background-color:#fbf595'>MVC</span> <span style='background-color:#fcb7a3'>MVC</span>|
+      |Jetpack|<span style='background-color:#fbf595'>MVC</span> <span style='background-color:#fcb7a3'>MVC</span>|
+      |Database|<span style='background-color:#fbf595'>MVC</span> <span style='background-color:#fcb7a3'>MVC</span>|
+      |Image|<span style='background-color:#fbf595'>MVC</span> <span style='background-color:#fcb7a3'>MVC</span>|
+      |Player|<span style='background-color:#fbf595'>MVC</span> <span style='background-color:#fcb7a3'>MVC</span>|
+      |Comunication|<span style='background-color:#fbf595'>MVC</span> <span style='background-color:#fcb7a3'>MVC</span>|
+      |Design|<span style='background-color:#fbf595'>Zeplin</span> <span style='background-color:#fcb7a3'>Figma</span>|
 #    content:
 #      - layout: top-left
 #        sub_title: Language
