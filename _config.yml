@@ -35,60 +35,51 @@ about_content: |
 content:
   - title: Skill-Stack
     layout: text
-    content: |
-      |## Category|##Stack|
-      |### Language|<span style='background-color:#fbf595'> Java </span> <span style='background-color:#fbf595'> Kotlin </span>|
-      |### Architecture|<span style='background-color:#fbf595'> MVC </span> <span style='background-color:#fbf595'> MVP </span> <span style='background-color:#fbf595'> MVVM </span>|
-      |### DI|<span style='background-color:#fbf595'> Koin </span> <span style='background-color:#fbf595'> Hilt </span>|
-      |###Networking|<span style='background-color:#fbf595'> Retrofit </span> <span style='background-color:#fcb7a3'> OkHttp </span> <span style='background-color:#fbf595'> Gson </span>|
-      |###Stream|<span style='background-color:#fbf595'> rxJava </span> <span style='background-color:#fbf595'> rxKotlin </span> <span style='background-color:#fbf595'> rxAndroid </span> <span style='background-color:#fbf595'> Coroutine </span>|
-      |###Jetpack|<span style='background-color:#fbf595'> Pager </span> <span style='background-color:#fcb7a3'> LiveData </span> <span style='background-color:#fcb7a3'> ViewModel </span> <span style='background-color:#fcb7a3'> Navigation </span> <span style='background-color:#fcb7a3'> LiveData </span> <span style='background-color:#fcb7a3'> Repository </span> <span style='background-color:#fcb7a3'> DataBinding </span> <span style='background-color:#fcb7a3'> Compose </span>|
-      |###Database|<span style='background-color:#fbf595'> Realm </span> <span style='background-color:#fcb7a3'> Room </span>|
-      |###Image|<span style='background-color:#fbf595'> Glide </span> <span style='background-color:#fcb7a3'> Coil </span>|
-      |###Comunication|<span style='background-color:#fbf595'> Jira </span> <span style='background-color:#fcb7a3'> Slack </span>|
-      |###Design|<span style='background-color:#fbf595'> Zeplin </span> <span style='background-color:#fcb7a3'> Figma </span>|
-      |###Test|<span style='background-color:#fbf595'> JUnit </span> <span style='background-color:#fcb7a3'> Espresso </span> <span style='background-color:#fcb7a3'> Mockito </span>|
-#    content:
-#      - layout: top-left
-#        sub_title: Language
-#        description: |
-#          <mark>Java</mark> <mark>Kotlin</mark>
-#      - layout: top-left
-#        sub_title: View
-#        description: |
-#          <mark>View/Databinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark>
-#      - layout: top-start
-#        sub_title: Stream
-#        description: |
-#          <mark>rxJava</mark> <mark>Livedata</mark> <mark>Coroutine</mark> <mark>Flow</mark>
-#      - layout: left
-#        sub_title: Architecture
-#        description: |
-#          <mark>MVC</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI(~ing)</mark>
-#      - layout: left
-#        sub_title: DI
-#        description: |
-#          <mark>Koin</mark> <mark>Hilt</mark>
-#      - layout: left
-#        sub_title: Test
-#        description: |
-#          <mark>Junit</mark> <mark>Espresso</mark> <mark>Mockito</mark>
-#      - layout: left
-#        sub_title: Design
-#        description: |
-#          <mark>Zeplin</mark> <mark>Figma</mark>
-#      - layout: left
-#        sub_title: VCS
-#        description: |
-#          <mark>Svn</mark> <mark>Git</mark> <mark>Trello</mark>
-#      - layout: left
-#        sub_title: Communication
-#        description: |
-#          <mark>Jira</mark> <mark>Slack</mark>
-#      - layout: left
-#        sub_title: Management
-#        description: |
-#          <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>
+    content:
+      - layout: top-left
+        sub_title: Language
+        description: |
+          <mark>Java</mark> <mark>Kotlin</mark>
+      - layout: left
+        sub_title: Architecture
+        description: |
+          <mark>MVC</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI(~ing)</mark>
+      - layout: top-start
+        sub_title: Stream
+        description: |
+          <mark>rxJava</mark> <mark>rxKotlin</mark> <mark>rxAndroid</mark> <mark>Livedata</mark> <mark>Coroutine</mark>
+      - layout: left
+        sub_title: Network
+        description: |
+          <mark>Retrofit</mark> <mark>OkHttp</mark>
+      - layout: top-left
+        sub_title: Libraries
+        description: |
+          <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark> <mark>Glide</mark> <mark>Coil</mark>
+      - layout: left
+        sub_title: DI
+        description: |
+          <mark>Koin</mark> <mark>Hilt</mark>
+      - layout: left
+        sub_title: Test
+        description: |
+          <mark>Junit</mark> <mark>Espresso</mark> <mark>Mockito</mark>
+      - layout: left
+        sub_title: Design
+        description: |
+          <mark>Zeplin</mark> <mark>Figma</mark>
+      - layout: left
+        sub_title: VCS
+        description: |
+          <mark>Svn</mark> <mark>Git</mark> <mark>Trello</mark>
+      - layout: left
+        sub_title: Communication
+        description: |
+          <mark>Jira</mark> <mark>Slack</mark>
+      - layout: left
+        sub_title: Management
+        description: |
+          <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>
 
   - title: Experience
     layout: list
