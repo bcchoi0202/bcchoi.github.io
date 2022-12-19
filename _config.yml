@@ -9,7 +9,6 @@ name: 최병철
 title: Android Developer
 email: bcchoi0202@gmail.com
 phone: 010-6411-8658
-hits: [![Hits](https://hits.sh/github.com/bcchoi0202/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
 
 # Social links
 #twitter_username: sproogen
@@ -182,7 +181,9 @@ content:
   - title: Finally
     layout: text
     content: |
-      다양한 프로젝트를 개발해오며 Android 개발자로서의 기술 스택 및 경험, 그리고 자질을 쌓아왔습니다. 지금도, 그리고 앞으로도 꾸준히 노력하겠습니다.
+      다양한 프로젝트를 개발해오며 Android 개발자로서의 기술 스택 및 경험, 그리고 자질을 쌓아왔습니다. 지금도, 그리고 앞으로도 꾸준히 노력하겠습니다.  
+      
+      <span style="display: inline-block; width: 95%; text-align: right;"> [![Hits](https://hits.sh/github.com/bcchoi0202/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)</span>
 # Footer
 footer_show_references: false
 
