@@ -35,7 +35,7 @@ about_content: |
 content:
   - title: Skill-Stack
     layout: text
-    description: |
+    content: |
       |Category|Stack|
       |Language|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
       |Architecture|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
