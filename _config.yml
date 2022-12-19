@@ -96,7 +96,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         border: weak
         title: (주)다날
         sub_title: Android Developer
