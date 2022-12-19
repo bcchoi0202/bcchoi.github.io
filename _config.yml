@@ -48,47 +48,47 @@ content:
       |Player|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
       |Comunication|<span style='background-color:fbf595'>Java</span> <span style='color:fcb7a3'>Kotlin</span>|
       |Design|<span style="color:red>Zeplin</span>|
-    content:
-      - layout: top-left
-        sub_title: Language
-        description: |
-          <mark>Java</mark> <mark>Kotlin</mark>
-      - layout: top-left
-        sub_title: View
-        description: |
-          <mark>View/Databinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark>
-      - layout: top-start
-        sub_title: Stream
-        description: |
-          <mark>rxJava</mark> <mark>Livedata</mark> <mark>Coroutine</mark> <mark>Flow</mark>
-      - layout: left
-        sub_title: Architecture
-        description: |
-          <mark>MVC</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI(~ing)</mark>
-      - layout: left
-        sub_title: DI
-        description: |
-          <mark>Koin</mark> <mark>Hilt</mark>
-      - layout: left
-        sub_title: Test
-        description: |
-          <mark>Junit</mark> <mark>Espresso</mark> <mark>Mockito</mark>
-      - layout: left
-        sub_title: Design
-        description: |
-          <mark>Zeplin</mark> <mark>Figma</mark>
-      - layout: left
-        sub_title: VCS
-        description: |
-          <mark>Svn</mark> <mark>Git</mark> <mark>Trello</mark>
-      - layout: left
-        sub_title: Communication
-        description: |
-          <mark>Jira</mark> <mark>Slack</mark>
-      - layout: left
-        sub_title: Management
-        description: |
-          <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>  
+#    content:
+#      - layout: top-left
+#        sub_title: Language
+#        description: |
+#          <mark>Java</mark> <mark>Kotlin</mark>
+#      - layout: top-left
+#        sub_title: View
+#        description: |
+#          <mark>View/Databinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark>
+#      - layout: top-start
+#        sub_title: Stream
+#        description: |
+#          <mark>rxJava</mark> <mark>Livedata</mark> <mark>Coroutine</mark> <mark>Flow</mark>
+#      - layout: left
+#        sub_title: Architecture
+#        description: |
+#          <mark>MVC</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI(~ing)</mark>
+#      - layout: left
+#        sub_title: DI
+#        description: |
+#          <mark>Koin</mark> <mark>Hilt</mark>
+#      - layout: left
+#        sub_title: Test
+#        description: |
+#          <mark>Junit</mark> <mark>Espresso</mark> <mark>Mockito</mark>
+#      - layout: left
+#        sub_title: Design
+#        description: |
+#          <mark>Zeplin</mark> <mark>Figma</mark>
+#      - layout: left
+#        sub_title: VCS
+#        description: |
+#          <mark>Svn</mark> <mark>Git</mark> <mark>Trello</mark>
+#      - layout: left
+#        sub_title: Communication
+#        description: |
+#          <mark>Jira</mark> <mark>Slack</mark>
+#      - layout: left
+#        sub_title: Management
+#        description: |
+#          <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>
 
   - title: Experience
     layout: list
