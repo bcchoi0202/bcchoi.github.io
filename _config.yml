@@ -32,6 +32,11 @@ about_content: |
   - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많은
   - "함께"의 재미를 알고 소통을 즐길 줄 아는
 
+  **저는 이런 근무 환경을 선호합니다.**
+  - 출근과 퇴근시간을 본인이 결정할 수 있는
+  - 의사결정이 투명하게 이뤄지고 관련 정보의 공유가 수평적인
+  - 더욱 건강한 개발문화를 함께 만들어 가는 
+
 content:
   - title: Skill-Stack
     layout: list
@@ -55,7 +60,11 @@ content:
       - layout: top-left
         sub_title: Libraries
         description: |
-          <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark> <mark>Glide</mark> <mark>Coil</mark>
+          <mark>Navigation</mark> <mark>Pager</mark> <mark>ViewModel</mark> <mark>DataBinding</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark>
+      - layout: left
+        sub_title: Database
+        description: |
+          <mark>Room</mark> <mark>Realm</mark>
       - layout: left
         sub_title: DI
         description: |
@@ -80,6 +89,9 @@ content:
         sub_title: Management
         description: |
           <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>
+  - title: 핵심 역량
+    layout: text
+    content:
 
   - title: Experience
     layout: list
@@ -91,28 +103,24 @@ content:
         link: https://www.danal.co.kr/
         caption: 2022.03 ~ 현재
         description: |
+          **담당업무**
           * 다모음 App 개발 및 유지보수
-            * 다모음 포인트 충전 기능 개발 
-            * 실물 카드 발급/재발급/등록/분실신고 등 실물 카드 관리 서비스 개발
-            * 다모음 App 리팩토링
-              * Single module -> Multi module Migration
-              * Clean Architecture / Repository pattern Migration
-              * rxJava, LiveData -> Coroutine, Flow Migration
-              * Kotlin DSL 적용
-              * Koin -> Hilt Migration
-              * Compose Migration  
+          * 다모음 포인트 충전 기능 개발 
+          * 실물 카드 발급/재발급/등록/분실신고 등 실물 카드 관리 서비스 개발
+          * 다모음 App 리팩토링
+            * Single module -> Multi module Migration
+            * Clean Architecture / Repository pattern Migration
+            * rxJava, LiveData -> Coroutine, Flow Migration
+            * Kotlin DSL 적용
+            * Koin -> Hilt Migration
+            * Compose Migration    
           
-          **Used skill stack**  
-            <mark>Kotlin</mark> <mark>Kotlin DSL</mark>  
-            <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> 등  
-            <mark>Koin</mark> <mark>Hilt</mark>  
-            <mark>MVVM</mark>  
-            <mark>Firebase</mark> <mark>AppsFlyer</mark>  
+            <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>  
           
-          > 핵심 역량
+          **핵심 역량**
           > - 다모음 App 신규 Feature 개발/운영 및 개선
           > - 레거시 코드 제거 및 신규 기술 스택 도입
-          > - 일 평균 DAU 5만  
+          > - 일 평균 DAU 4.8만 
 
       - layout: top
         border: weak
