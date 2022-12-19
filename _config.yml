@@ -34,7 +34,7 @@ about_content: |
 
 content:
   - title: Skill-Stack
-    layout: text
+    layout: list
     content:
       - layout: top-left
         sub_title: Language
