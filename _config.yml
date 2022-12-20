@@ -26,7 +26,7 @@ about_title: About me
 about_profile_image: images/me.jpg
 about_content: |
   <span style="display: inline-block; width: 95%; text-align: right;"> [![Hits](https://hits.sh/github.com/bcchoi0202/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)</span>  
-  **저는 <span background-color='#000000'>　　　　　　　</span> 개발자입니다.**
+  **저는 <span style="background-color:#000000">　　　　　　　</span> 개발자입니다.**
   - 빠르고 사용하기 쉬우면서도 사용에 즐거움을 더해주는 경험을 제공하는 것을 좋아하는  
   - 사용자 관점을 최우선으로 생각하고 고민하는
   - 새로운 기술을 배우고 검토 및 도입하는
