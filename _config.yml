@@ -43,7 +43,7 @@ content:
   - title: Skill-Stack
     layout: text
     content: |
-      |<p>**Category**|<p>**Skills**</p>|
+      | <font size="1"> **Category**</font>|<font size="2">**Skills**</font>|
       |Language|<mark>Java</mark> <mark>Kotlin</mark>  |
       |Architecture|<mark>MVC</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI(~ing)</mark>|
       |Stream|<mark>rxJava</mark> <mark>rxKotlin</mark> <mark>rxAndroid</mark> <mark>Livedata</mark> <mark>Coroutine</mark>|
