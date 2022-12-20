@@ -37,7 +37,7 @@ about_content: |
   **저는 이런 근무 환경을 선호합니다.**
   - 출근과 퇴근시간을 본인이 결정할 수 있는
   - 의사결정이 투명하게 이뤄지고 관련 정보의 공유가 수평적인
-  - 더욱 건강한 개발문화를 함께 만들어 가는  
+  - 더욱 건강한 개발문화를 함께 만들어 가는    
 
 content:
   - title: Skill-Stack
@@ -92,11 +92,8 @@ content:
         description: |
           <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>
 
-  - title: To-Do
-    layout: list
-    content:
       - layout: top-left
-        sub_title: Language
+        sub_title: To-Do
         description: |
           <mark>Clean architecture</mark> <mark>Jetpack Compose</mark> <mark>TDD</mark>  
 
