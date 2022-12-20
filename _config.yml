@@ -43,20 +43,20 @@ content:
   - title: Skill-Stack
     layout: text
     content: |
-      | <font size="1"> **Category**</font>|<font size="2">**Skills**</font>|
-      |Language|<mark>Java</mark> <mark>Kotlin</mark>  |
-      |Architecture|<mark>MVC</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI(~ing)</mark>|
-      |Stream|<mark>rxJava</mark> <mark>rxKotlin</mark> <mark>rxAndroid</mark> <mark>Livedata</mark> <mark>Coroutine</mark>|
-      |Network|<mark>Retrofit</mark> <mark>OkHttp</mark>|
-      |Libraries|<mark>Navigation</mark> <mark>Pager</mark> <mark>ViewModel</mark> <mark>DataBinding</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark>|
-      |Database|<mark>Room</mark> <mark>Realm</mark>|
-      |DI|<mark>Koin</mark> <mark>Hilt</mark>|
-      |Testing|<mark>Junit</mark> <mark>Espresso</mark> <mark>Mockito</mark>|
-      |Design|<mark>Zeplin</mark> <mark>Figma</mark>|
-      |VCS|<mark>Svn</mark> <mark>Git</mark>|
-      |Communication|<mark>Jira</mark> <mark>Slack</mark>|
-      |Management|<mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>|    
-      |To-Do|<mark>Clean architecture</mark> <mark>Jetpack Compose</mark> <mark>TDD</mark>|  
+      |<font size="4">Category</font>|<font size="4">Skills</font>|
+      |<font size="3">Language</font>|<mark>Java</mark> <mark>Kotlin</mark>  |
+      |<font size="3">Architecture</font>|<mark>MVC</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI(~ing)</mark>|
+      |<font size="3">Stream</font>|<mark>rxJava</mark> <mark>rxKotlin</mark> <mark>rxAndroid</mark> <mark>Livedata</mark> <mark>Coroutine</mark>|
+      |<font size="3">Network</font>|<mark>Retrofit</mark> <mark>OkHttp</mark>|
+      |<font size="3">Libraries</font>|<mark>Navigation</mark> <mark>Pager</mark> <mark>ViewModel</mark> <mark>DataBinding</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark>|
+      |<font size="3">Database</font>|<mark>Room</mark> <mark>Realm</mark>|
+      |<font size="3">DI</font>|<mark>Koin</mark> <mark>Hilt</mark>|
+      |<font size="3">Testing</font>|<mark>Junit</mark> <mark>Espresso</mark> <mark>Mockito</mark>|
+      |<font size="3">Design</font>|<mark>Zeplin</mark> <mark>Figma</mark>|
+      |<font size="3">VCS</font>|<mark>Svn</mark> <mark>Git</mark>|
+      |<font size="3">Communication</font>|<mark>Jira</mark> <mark>Slack</mark>|
+      |<font size="3">Management</font>|<mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>|    
+      |<font size="3">To-Do</font>|<mark>Clean architecture</mark> <mark>Jetpack Compose</mark> <mark>TDD</mark>|  
 
   - title: Experience
     layout: list
