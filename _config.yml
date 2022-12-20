@@ -41,61 +41,22 @@ about_content: |
 
 content:
   - title: Skill-Stack
-    layout: list
-    content:
-      - layout: top-left
-        sub_title: Language
-        description: |
-          <mark>Java</mark> <mark>Kotlin</mark>
-      - layout: left
-        sub_title: Architecture
-        description: |
-          <mark>MVC</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI(~ing)</mark>
-      - layout: top-start
-        sub_title: Stream
-        description: |
-          <mark>rxJava</mark> <mark>rxKotlin</mark> <mark>rxAndroid</mark> <mark>Livedata</mark> <mark>Coroutine</mark>
-      - layout: left
-        sub_title: Network
-        description: |
-          <mark>Retrofit</mark> <mark>OkHttp</mark>
-      - layout: top-left
-        sub_title: Libraries
-        description: |
-          <mark>Navigation</mark> <mark>Pager</mark> <mark>ViewModel</mark> <mark>DataBinding</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark>
-      - layout: left
-        sub_title: Database
-        description: |
-          <mark>Room</mark> <mark>Realm</mark>
-      - layout: left
-        sub_title: DI
-        description: |
-          <mark>Koin</mark> <mark>Hilt</mark>
-      - layout: left
-        sub_title: Test
-        description: |
-          <mark>Junit</mark> <mark>Espresso</mark> <mark>Mockito</mark>
-      - layout: left
-        sub_title: Design
-        description: |
-          <mark>Zeplin</mark> <mark>Figma</mark>
-      - layout: left
-        sub_title: VCS
-        description: |
-          <mark>Svn</mark> <mark>Git</mark>
-      - layout: left
-        sub_title: Communication
-        description: |
-          <mark>Jira</mark> <mark>Slack</mark>
-      - layout: left
-        sub_title: Management
-        description: |
-          <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>
-
-      - layout: top-left
-        sub_title: To-Do
-        description: |
-          <mark>Clean architecture</mark> <mark>Jetpack Compose</mark> <mark>TDD</mark>  
+    layout: text
+    content: |
+      |Category|Skills|
+      |Language|<mark>Java</mark> <mark>Kotlin</mark>  |
+      |Architecture|<mark>MVC</mark> <mark>MVP</mark> <mark>MVVM</mark> <mark>MVI(~ing)</mark>|
+      |Stream|<mark>rxJava</mark> <mark>rxKotlin</mark> <mark>rxAndroid</mark> <mark>Livedata</mark> <mark>Coroutine</mark>|
+      |Network|<mark>Retrofit</mark> <mark>OkHttp</mark>|
+      |Libraries|<mark>Navigation</mark> <mark>Pager</mark> <mark>ViewModel</mark> <mark>DataBinding</mark> <mark>Jetpack Compose</mark> <mark>Glide</mark> <mark>Coil</mark>|
+      |Database|<mark>Room</mark> <mark>Realm</mark>|
+      |DI|<mark>Koin</mark> <mark>Hilt</mark>|
+      |Testing|<mark>Junit</mark> <mark>Espresso</mark> <mark>Mockito</mark>|
+      |Design|<mark>Zeplin</mark> <mark>Figma</mark>|
+      |VCS|<mark>Svn</mark> <mark>Git</mark>|
+      |Communication|<mark>Jira</mark> <mark>Slack</mark>|
+      |Management|<mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>|    
+      |To-Do|<mark>Clean architecture</mark> <mark>Jetpack Compose</mark> <mark>TDD</mark>|  
 
   - title: Experience
     layout: list
@@ -173,7 +134,7 @@ content:
         sub_title: 컴퓨터 공학부
         caption: 2006.03 - 2014.02
 
-      - layout: top-middle
+      - layout: left
         title: 수원 동원고등학교
         sub_title: 이공계 졸업
         caption: 2003.03 - 2006.02
