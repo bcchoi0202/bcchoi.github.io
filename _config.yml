@@ -54,7 +54,8 @@ content:
       |<font size="3">VCS</font>|<mark><font size="2">Svn</font></mark> <mark><font size="2">Git</font></mark>|
       |<font size="3">Communication</font>|<mark><font size="2">Jira</font></mark> <mark><font size="2">Slack</font></mark>|
       |<font size="3">Management</font>|<mark><font size="2">Analytics</font></mark> <mark><font size="2">Crashlytics</font></mark> <mark><font size="2">AppsFlyer</font></mark>|        
-      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        
+      <br><br><br><br><br><br><br><br><br><br><br><br>
   - title: Experience
     layout: list
     content:
