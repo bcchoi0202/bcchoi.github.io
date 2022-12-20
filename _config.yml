@@ -55,7 +55,7 @@ content:
       |<font size="3">Communication</font>|<mark><font size="2">Jira</font></mark> <mark><font size="2">Slack</font></mark>|
       |<font size="3">Management</font>|<mark><font size="2">Analytics</font></mark> <mark><font size="2">Crashlytics</font></mark> <mark><font size="2">AppsFlyer</font></mark>|        
         
-      <br><br><br><br><br><br><br><br><br><br><br><br>
+      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   - title: Experience
     layout: list
     content:
@@ -93,7 +93,7 @@ content:
             
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark>
-
+            <br><br><br><br><br><br><br><br>
       - layout: top-middle
         border: weak
         title: Bixolon
@@ -110,7 +110,7 @@ content:
             * 마켓컬리 물류센터 내 해당 SDK 사용 및 납품 계약 체결   
             
           * 사용 기술 스택  
-            * <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVC</mark> <mark>MVP</mark>
+            * <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVC</mark> <mark>MVP</mark>  
 
       - layout: top-middle
         border: weak
