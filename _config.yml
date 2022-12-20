@@ -26,27 +26,28 @@ about_title: About me
 about_profile_image: images/me.jpg
 about_content: |
   <span style="display: inline-block; width: 95%; text-align: right;"> [![Hits](https://hits.sh/github.com/bcchoi0202/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)</span>  
-  **저는 <span color-background='black'>　　　　　　　</span> 개발자입니다.**
+  **저는 <span background-color='black'>　　　　　　　</span> 개발자입니다.**
   - 빠르고 사용하기 쉬우면서도 사용에 즐거움을 더해주는 경험을 제공하는 것을 좋아하는  
   - 사용자 관점을 최우선으로 생각하고 고민하는
   - 새로운 기술을 배우고 검토 및 도입하는
   - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많은
   - "함께"의 재미를 알고 소통을 즐길 줄 아는   
-
+  
+  **저는 이런 근무 환경을 선호합니다.**
+  - 출근과 퇴근시간을 본인이 결정할 수 있는
+  - 의사결정이 투명하게 이뤄지고 관련 정보의 공유가 수평적인
+  - 더욱 건강한 개발문화를 함께 만들어 가는
 content:
   - title: Skill-Stack
     layout: text
     content: |
-      |<font size="4">Category</font>|<font size="4">Skills</font>|
-      |<font size="3">Language</font>|<mark><font size="2">Java</font></mark> <mark><font size="2">Kotlin</font></mark>  |
+      |<font size="3">Language</font>|<mark><font size="2">Java</font></mark> <mark><font size="2">Kotlin</font></mark>|
       |<font size="3">Architecture</font>|<mark><font size="2">MVC</font></mark> <mark><font size="2">MVP</font></mark> <mark><font size="2">MVVM</font></mark> <mark><font size="2">MVI(~ing)</font></mark>|
-      |<font size="3">Stream</font>|<mark><font size="2">rxJava</font></mark> <mark><font size="2">rxKotlin</font></mark> <mark><font size="2">rxAndroid</font></mark> <mark><font size="2">Livedata</font></mark> <mark><font size="2">Coroutine</font></mark>|
-      |<font size="3">Network</font>|<mark><font size="2">Retrofit</font></mark> <mark><font size="2">OkHttp</font></mark>|
-      |<font size="3">Libraries</font>|<mark><font size="2">Navigation</font></mark> <mark><font size="2">Pager</font></mark> <mark><font size="2">ViewModel</font></mark> <mark><font size="2">DataBinding</font></mark> <mark><font size="2">Jetpack Compose</font></mark> <mark><font size="2">Glide</font></mark> <mark><font size="2">Coil</font></mark>|
-      |<font size="3">Database</font>|<mark><font size="2">Room</font></mark> <mark><font size="2">Realm</font></mark>|
+      |<font size="3">Stream</font>|<mark><font size="2">rxJava</font></mark> <mark><font size="2">rxKotlin</font></mark> <mark><font size="2">rxAndroid</font></mark> <mark><font size="2">Livedata</font></mark> <mark><font size="2">Coroutine</font></mark> <mark><font size="2">Flow</font></mark>|
+      |<font size="3">Libraries</font>|<mark><font size="2">Navigation</font></mark> <mark><font size="2">Pager</font></mark> <mark><font size="2">ViewModel</font></mark> <mark><font size="2">DataBinding</font></mark> <mark><font size="2">Jetpack Compose</font></mark> <mark><font size="2">Glide</font></mark> <mark><font size="2">Coil</font></mark> <mark><font size="2">Retrofit</font></mark> <mark><font size="2">OkHttp</font></mark> <mark><font size="2">Room</font></mark> <mark><font size="2">Realm</font></mark>|
       |<font size="3">DI</font>|<mark><font size="2">Koin</font></mark> <mark><font size="2">Hilt</font></mark>|
       |<font size="3">Testing</font>|<mark><font size="2">Junit</font></mark> <mark><font size="2">Espresso</font></mark> <mark><font size="2">Mockito</font></mark>|
-      |<font size="3">Design</font>|<mark><font size="2">Zeplin</font></mark> <mark><font size="2">Figma</font></mark>|
+      |<font size="3">Design Tool</font>|<mark><font size="2">Zeplin</font></mark> <mark><font size="2">Figma</font></mark>|
       |<font size="3">VCS</font>|<mark><font size="2">Svn</font></mark> <mark><font size="2">Git</font></mark>|
       |<font size="3">Communication</font>|<mark><font size="2">Jira</font></mark> <mark><font size="2">Slack</font></mark>|
       |<font size="3">Management</font>|<mark><font size="2">Analytics</font></mark> <mark><font size="2">Crashlytics</font></mark> <mark><font size="2">AppsFlyer</font></mark>|      
@@ -73,7 +74,7 @@ content:
             * Kotlin DSL 적용
             * Koin -> Hilt Migration
             * Compose Migration  
-          
+            
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
       - layout: top-middle
@@ -85,7 +86,7 @@ content:
         description: |
           * Rainus Player 내 상품 가격태그 표시 기능 개발
             * 가격태그 관련 rating, reviews, advertise 등 컨텐츠 추가 및 제어  
-          
+            
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark>
 
@@ -103,7 +104,7 @@ content:
           * Bixolon Printer Javascript SDK 개발
             * Web 환경에서의 프린터 접근성 향상
             * 마켓컬리 물류센터 내 해당 SDK 사용 및 납품 계약 체결   
-          
+            
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVC</mark> <mark>MVP</mark>
 
@@ -119,7 +120,7 @@ content:
             * Logger 적용으로 디버그 용이성 증가
           * 파리크라상/파스쿠찌 점포 컨설팅 App 개발(관리자/슈퍼바이저 용)
             * Custom View 구현 및 적용으로 사용량 y% 증가  
-          
+            
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
 
