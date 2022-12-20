@@ -109,7 +109,7 @@ content:
         border: weak
         title: Zin Corp.
         sub_title: Android Development
-        link: http://zin.co.kr/
+        link: https://zin.co.kr/
         caption: 2014.01 ~ 2017.09
         description: |
           * SPC 그룹사 Mobile POS 및 점포 컨설팅 Android App 개발
@@ -119,20 +119,6 @@ content:
             * Custom View 구현 및 적용으로 사용량 y% 증가
           
           <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
-
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: 한신대학교
-        sub_title: 컴퓨터 공학부
-        caption: 2006.03 - 2014.02
-
-      - layout: left
-        title: 수원 동원고등학교
-        sub_title: 이공계 졸업
-        caption: 2003.03 - 2006.02
-
 
   - title: In ordinary days
     layout: text
