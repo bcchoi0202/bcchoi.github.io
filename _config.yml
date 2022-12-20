@@ -50,8 +50,7 @@ content:
       |<font size="3">Design</font>|<mark><font size="2">Zeplin</font></mark> <mark><font size="2">Figma</font></mark>|
       |<font size="3">VCS</font>|<mark><font size="2">Svn</font></mark> <mark><font size="2">Git</font></mark>|
       |<font size="3">Communication</font>|<mark><font size="2">Jira</font></mark> <mark><font size="2">Slack</font></mark>|
-      |<font size="3">Management</font>|<mark><font size="2">Analytics</font></mark> <mark><font size="2">Crashlytics</font></mark> <mark><font size="2">AppsFlyer</font></mark>|    
-      |<font size="3">To-Do</font>|<mark><font size="2">Clean architecture</font></mark> <mark><font size="2">Jetpack Compose</font></mark> <mark><font size="2">TDD</font></mark>|  
+      |<font size="3">Management</font>|<mark><font size="2">Analytics</font></mark> <mark><font size="2">Crashlytics</font></mark> <mark><font size="2">AppsFlyer</font></mark>|      
 
   - title: Experience
     layout: list
