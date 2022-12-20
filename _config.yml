@@ -36,7 +36,6 @@ about_content: |
   - 출근과 퇴근시간을 본인이 결정할 수 있는
   - 의사결정이 투명하게 이뤄지고 관련 정보의 공유가 수평적인
   - 더욱 건강한 개발문화를 함께 만들어 가는  
-  <span>
 
 content:
   - title: Skill-Stack
@@ -93,23 +92,25 @@ content:
   - title: 핵심 역량
     layout: text
     content:
-
+      *
   - title: Experience
     layout: list
     content:
       - layout: left
         border: weak
-        title: (주)다날
+        title: 다날 (Danal)
         sub_title: Android Developer
         link: https://www.danal.co.kr/
         caption: 2022.03 ~ 현재
         description: |
-          * 다모음 App 개발 및 유지보수
-          * 다모음 포인트 충전 기능 개발
+          * 다날 다모음 Android App 개발
+          * 포인트 충전 시스템 개발
           * 실물 카드 관리 서비스 개발
-          * 다모음 App 리팩토링
+          * 레거시코드 제거 및 최적화로 가독성 및 개발속도 향상
+          * 모듈 분리를 통한 빌드속도 n% 감소 및 유지보수성 향상
             * Single module -> Multi module Migration
             * Clean Architecture / Repository pattern Migration
+          * Refactoring을 통한 Boiler plate code 제거 및 성능 향상  
             * rxJava, LiveData -> Coroutine, Flow Migration
             * Kotlin DSL 적용
             * Koin -> Hilt Migration
@@ -118,7 +119,7 @@ content:
           <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
       - layout: left
         border: weak
-        title: Rainus
+        title: 라인어스 (Rainus)
         link: https://www.rainusbiz.com/ko/
         sub_title: Android Developer
         caption: 2021.07 ~ 2022.02
@@ -130,35 +131,35 @@ content:
 
       - layout: left
         border: weak
-        title: (주)Bixolon
+        title: 빅솔론 (Bixolon)
         sub_title: Android Developer
         link: https://www.bixolon.com/
         caption: 2018.03 ~ 2021.03
         description: |
+          * Bixolon Label Printer Android SDK 개발 및 유지보수
+            * 코어 모듈 리팩토링을 통해 인쇄 및 프린터 설정 기능 개선
           * Mobile printer용 결제 App 3사(KICC, NICE, KS-NET) 통합
-          * McDonald's(미국), Lotte GRS 계열사 유통기한 라벨링 App 개발
-          * 마켓컬리 주문 체크 라벨링 App 개발
-          * 라벨 디자인 App 개발  
+            * One Source 관리를 통한 유지보수성 향상 
+          * Bixolon Printer Javascript SDK 개발
+            * Web 환경에서의 프린터 접근성 향상
+            * 마켓컬리 물류센터 내 해당 SDK 사용 및 납품 계약 체결 
           
-          **Used skill stack**  
-            <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVVM</mark> <mark>MVP</mark>
-          
-          > Bixolon Label Printer와 관련된 전반적인 Application 개발/유지보수 및 개선
+          <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVC</mark> <mark>MVP</mark>
+
       - layout: left
         border: weak
-        title: (주)진코퍼레이션
+        title: 진코퍼레이션 (Zin Corporation)
         sub_title: Android Development
         link: http://zin.co.kr/
         caption: 2014.01 ~ 2017.09
         description: |
-          * 파리바게트/파리크라상 점포 컨설팅 App 개발(관리자/슈퍼바이저 용)
-          * 국내 파리크라상 계열 브랜드용 Mobild POS App 개발 (점주/매니저 용)
-          * 중국 Tamati Mobile Order App 개발(홀 - 주방 프린터 연동)  
+          * SPC 그룹사 Mobile POS 및 점포 컨설팅 Android App 개발
+            * 주문 내역 리스트 표시 속도 x% 개선
+            * Logger 적용으로 디버그 용이성 증가
+          * 파리크라상/파스쿠찌 점포 컨설팅 App 개발(관리자/슈퍼바이저 용)
+            * Custom View 구현 및 적용으로 사용량 y% 증가
           
-          **Used skill stack**  
-            <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
-          
-          > SPC 계열사의 Mobile POS 및 주문 시스템 개발 및 유지보수
+          <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
 
   - title: Education
     layout: list
@@ -185,7 +186,7 @@ content:
       
       <span style="display: inline-block; width: 95%; text-align: right;"> [![Hits](https://hits.sh/github.com/bcchoi0202/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)</span>
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
