@@ -126,7 +126,7 @@ content:
           <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
       - layout: left
         border: weak
-        title: 라인어스  (Rainus)
+        title: 라인어스 (Rainus)
         link: https://www.rainusbiz.com/ko/
         sub_title: Android Developer
         caption: 2021.07 ~ 2022.02
