@@ -105,7 +105,7 @@ content:
     content:
       - layout: left
         border: weak
-        title: 다날 (Danal)
+        title: 다날  (Danal)
         sub_title: Android Developer
         link: https://www.danal.co.kr/
         caption: 2022.03 ~ 현재
@@ -126,7 +126,7 @@ content:
           <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
       - layout: left
         border: weak
-        title: 라인어스 (Rainus)
+        title: 라인어스  (Rainus)
         link: https://www.rainusbiz.com/ko/
         sub_title: Android Developer
         caption: 2021.07 ~ 2022.02
@@ -138,7 +138,7 @@ content:
 
       - layout: left
         border: weak
-        title: 빅솔론 (Bixolon)
+        title: 빅솔론  (Bixolon)
         sub_title: Android Developer
         link: https://www.bixolon.com/
         caption: 2018.03 ~ 2021.03
@@ -155,7 +155,7 @@ content:
 
       - layout: left
         border: weak
-        title: 진코퍼레이션 (Zin Corporation)
+        title: 진코퍼레이션  (Zin Corporation)
         sub_title: Android Development
         link: http://zin.co.kr/
         caption: 2014.01 ~ 2017.09
