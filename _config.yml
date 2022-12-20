@@ -92,6 +92,14 @@ content:
         description: |
           <mark>Analytics</mark> <mark>Crashlytics</mark> <mark>AppsFlyer</mark>
 
+  - title: To-Do
+    layout: list
+    content:
+      - layout: top-left
+        sub_title: Language
+        description: |
+          <mark>Clean architecture</mark> <mark>Jetpack Compose</mark> <mark>TDD</mark>  
+
   - title: Experience
     layout: list
     content:
