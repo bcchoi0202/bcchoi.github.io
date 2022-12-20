@@ -46,7 +46,9 @@ content:
       |<font size="3">Language</font>|<mark><font size="2">Java</font></mark> <mark><font size="2">Kotlin</font></mark>|
       |<font size="3">Architecture</font>|<mark><font size="2">MVC</font></mark> <mark><font size="2">MVP</font></mark> <mark><font size="2">MVVM</font></mark> <mark><font size="2">MVI(~ing)</font></mark>|
       |<font size="3">Stream</font>|<mark><font size="2">rxJava</font></mark> <mark><font size="2">rxKotlin</font></mark> <mark><font size="2">rxAndroid</font></mark> <mark><font size="2">Livedata</font></mark> <mark><font size="2">Coroutine</font></mark> <mark><font size="2">Flow</font></mark>|
-      |<font size="3">Libraries</font>|<mark><font size="2">Navigation</font></mark> <mark><font size="2">Pager</font></mark> <mark><font size="2">ViewModel</font></mark> <mark><font size="2">DataBinding</font></mark> <mark><font size="2">Jetpack Compose</font></mark> <mark><font size="2">Glide</font></mark> <mark><font size="2">Coil</font></mark> <mark><font size="2">Retrofit</font></mark> <mark><font size="2">OkHttp</font></mark>|
+      |<font size="3">Network</font>|<mark><font size="2">Retrofit</font></mark> <mark><font size="2">OkHttp</font></mark>|
+      |<font size="3">Jetpack</font>|<mark><font size="2">Navigation</font></mark> <mark><font size="2">Pager</font></mark> <mark><font size="2">ViewModel</font></mark> <mark><font size="2">DataBinding</font></mark> <mark><font size="2">Compose</font></mark>|
+      |<font size="3">Image</font>|<mark><font size="2">Glide</font></mark> <mark><font size="2">Coil</font></mark>|
       |<font size="3">Database</font>|<mark><font size="2">Room</font></mark> <mark><font size="2">Realm</font></mark>|
       |<font size="3">DI</font>|<mark><font size="2">Koin</font></mark> <mark><font size="2">Hilt</font></mark>|
       |<font size="3">Testing</font>|<mark><font size="2">Junit</font></mark> <mark><font size="2">Espresso</font></mark> <mark><font size="2">Mockito</font></mark>|
