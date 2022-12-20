@@ -74,6 +74,7 @@ content:
             * Koin -> Hilt Migration
             * Compose Migration  
           
+          사용 기술 스택  
           <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
       - layout: top-middle
         border: weak
@@ -84,7 +85,7 @@ content:
         description: |
           * Rainus Player 내 상품 가격태그 표시 기능 개발
             * 가격태그 관련 rating, reviews, advertise 등 컨텐츠 추가 및 제어
-          
+          사용 기술 스택  
           <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark>
 
       - layout: top-middle
@@ -101,7 +102,7 @@ content:
           * Bixolon Printer Javascript SDK 개발
             * Web 환경에서의 프린터 접근성 향상
             * 마켓컬리 물류센터 내 해당 SDK 사용 및 납품 계약 체결 
-          
+          사용 기술 스택  
           <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVC</mark> <mark>MVP</mark>
 
       - layout: top-middle
@@ -116,7 +117,7 @@ content:
             * Logger 적용으로 디버그 용이성 증가
           * 파리크라상/파스쿠찌 점포 컨설팅 App 개발(관리자/슈퍼바이저 용)
             * Custom View 구현 및 적용으로 사용량 y% 증가
-          
+          사용 기술 스택  
           <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
 
   - title: In ordinary days
