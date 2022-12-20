@@ -82,7 +82,7 @@ content:
       - layout: left
         sub_title: VCS
         description: |
-          <mark>Svn</mark> <mark>Git</mark> <mark>Trello</mark>
+          <mark>Svn</mark> <mark>Git</mark>
       - layout: left
         sub_title: Communication
         description: |
@@ -171,7 +171,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: 한신대학교
         sub_title: 컴퓨터 공학부
         caption: 2006.03 - 2014.02
@@ -180,6 +180,7 @@ content:
         title: 수원 동원고등학교
         sub_title: 이공계 졸업
         caption: 2003.03 - 2006.02
+
 
   - title: In ordinary days
     layout: text
