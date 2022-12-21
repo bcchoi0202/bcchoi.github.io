@@ -31,9 +31,9 @@ about_content: |
   - 사용자 관점을 최우선으로 생각하고 고민하는
   - 끊임 없이 기존 코드를 분석하고 개선하는
   - 새로운 기술을 배우고 검토 및 도입하는
-  - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많은
   - "함께"의 재미를 알고 소통을 즐길 줄 아는
   - 건강한 개발 문화를 함께 만들어 가는
+  - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많은
   <br>
 #  **저는 이런 근무 환경을 선호합니다.**
 #  - 출근과 퇴근시간을 본인이 결정할 수 있는
@@ -61,13 +61,6 @@ content:
       |<font size="3">Management</font>|<mark><font size="2">Analytics</font></mark> <mark><font size="2">Crashlytics</font></mark> <mark><font size="2">AppsFlyer</font></mark>|        
         
       <br>
-  - title: Competency
-      layout: text
-      content: |
-        - first 
-        - second
-        - third
-        - fourth
 
   - title: Experience
     layout: list
@@ -175,6 +168,18 @@ content:
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
             <br>
+
+  - title: Education
+      layout: list
+      content:
+        - title: Java 개발자 실무 교육
+        - sub_title: 한국 소프트웨어 기술 협회
+        - caption: 2013.07 - 2013.12
+
+        - title: 한신대학교
+          sub_title: 컴퓨터 공학부
+          caption: 2006.03 - 2014.02
+
   - title: In ordinary days
     layout: text
     content: | 
