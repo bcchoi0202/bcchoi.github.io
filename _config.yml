@@ -72,8 +72,8 @@ content:
         caption: 2022.03 ~ 현재
         description: |
           **다모음 Android App 개발 담당**
-           - 모바일 결제, 포인트 결제 및 충전, 실물 카드 발급 및 관리, 모바일 헌금하기 등 다날 대표 결제 플랫폼
-             
+           - 모바일 결제와 포인트 결제, 포인트 충전, 실물 카드 발급 및 관리, 모바일 헌금하기, 바코드 결제 등 다날 대표 결제 플랫폼
+
           <br>
           **주요 업무 및 성과**
           * 포인트 충전 시스템 개발
@@ -97,8 +97,8 @@ content:
         link: https://www.rainusbiz.com/ko/
         caption: 2021.07 ~ 2022.02
         description: |
-          **Rainus Player 신규 기능 개발 및 Front-end 개발**   
-           - 광고용 Android Signage 기기에서 광고 및 컨텐츠 또는 가격태그 등을 표시   
+          **Rainus Player 신규 기능 개발 및 Front-end 개발 담당**   
+           - Rainus에서 제조한 Android Signage 기기에 광고 영상, 광고 이미지, 가격표, 기타 컨텐츠 등을 일자별, 시간대별에 따라 표시하는 광고 컨텐츠 재생 플레이어    
           
           <br>
           **주요 업무 및 성과**
@@ -116,8 +116,7 @@ content:
         caption: 2018.03 ~ 2021.03
         description: |
           **Bixolon Printer(Label, Mobile) 관련 SDK 및 App 개발**
-           -  
-
+          
           <br>
           **주요 업무 및 성과**
           * Bixolon Label Printer Android SDK 개발 및 유지보수
