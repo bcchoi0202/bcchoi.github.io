@@ -61,7 +61,7 @@ content:
       |<font size="3">Communication</font>|<mark><font size="2">Jira</font></mark> <mark><font size="2">Slack</font></mark>|
       |<font size="3">Management</font>|<mark><font size="2">Analytics</font></mark> <mark><font size="2">Crashlytics</font></mark> <mark><font size="2">AppsFlyer</font></mark>|        
         
-      <br>
+      <br><br><br><br><br>
   - title: Experience
     layout: list
     content:
@@ -87,7 +87,7 @@ content:
             
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
-            <br><br><br><br><br>
+            <br><br><br><br><br><br><br><br><br>
       - layout: top-middle
         border: weak
         title: Rainus
