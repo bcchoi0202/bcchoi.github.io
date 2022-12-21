@@ -87,7 +87,7 @@ content:
             
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
-            <br><br><br>
+            <br>
       - layout: top-middle
         border: weak
         title: Rainus
@@ -102,7 +102,7 @@ content:
             * 고객사(CJ/BMW)에서 사용하는 Widget(Front-end) 개발
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark> <mark>Javascript</mark> <mark>Css</mark>  
-            <br><br><br>
+            <br>
       - layout: top-middle
         border: weak
         title: Bixolon
