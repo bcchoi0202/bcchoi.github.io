@@ -72,7 +72,7 @@ content:
         caption: 2022.03 ~ 현재
         description: |
           **다모음 Android App 개발 담당**
-           - 모바일 결제와 포인트 결제, 포인트 충전, 실물 카드 발급 및 관리, 모바일 헌금하기, 바코드 결제 등 다날 대표 결제 플랫폼
+           - 모바일 결제와 포인트 결제, 포인트 충전, 실물 카드 발급 및 관리, 모바일 헌금하기, 바코드 결제 등의 기능을 제공하는 다날 대표 결제 플랫폼
 
           <br>
           **주요 업무 및 성과**
@@ -98,7 +98,7 @@ content:
         caption: 2021.07 ~ 2022.02
         description: |
           **Rainus Player 신규 기능 개발 및 Front-end 개발 담당**   
-           - Rainus에서 제조한 Android Signage 기기에 광고 영상, 광고 이미지, 가격표, 기타 컨텐츠 등을 일자별, 시간대별에 따라 표시하는 광고 컨텐츠 재생 플레이어    
+           - Rainus에서 제조한 Android Signage 기기에 광고 컨텐츠 재생 플레이어로 영상, 이미지, 가격표, 기타 컨텐츠 등을 일자, 시간대에 따라 표시    
           
           <br>
           **주요 업무 및 성과**
@@ -115,7 +115,15 @@ content:
         link: https://www.bixolon.com/
         caption: 2018.03 ~ 2021.03
         description: |
-          **Bixolon Printer(Label, Mobile) 관련 SDK 및 App 개발**
+          **Bixolon Printer(Label, Mobile) 관련 SDK 및 App 개발**  
+          
+          대표 프로젝트
+           * Bixolon Label Printer Android Sdk
+             * Android Native 환경에서 각종 설정 및 인쇄 컨텐츠 추가 등을 지원하는 Label Printer 제어용 Sdk 
+           * ICPay 결제 App
+             * 결제 모듈이 장착된 Printer와 함께 사용하는 오프라인 결제 App
+           * Bixolon Printer Javascript Sdk
+             * Web 환경에서 각종 설정 및 인쇄 컨텐츠 추가 등을 지원하는 Printer 제어용 Sdk
           
           <br>
           **주요 업무 및 성과**
@@ -124,8 +132,7 @@ content:
           * Mobile printer용 결제 App 3사(KICC, NICE, KS-NET) 통합
             * One Source 관리를 통한 유지보수성 향상 
           * Bixolon Printer Javascript SDK 개발
-            * Web 환경에서의 프린터 접근성 향상
-            * 마켓컬리 물류센터 내 해당 SDK 사용 및 납품 계약 체결   
+            * Web 환경에서의 프린터 접근 및 사용성 향상   
             
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVC</mark> <mark>MVP</mark>  
