@@ -43,8 +43,10 @@ content:
   - title: Skill-Stack
     layout: text
     content: | 
-      아래는 현재 사용하고 있거나, 기존 프로젝트에서 자주 사용했던 기술 스택입니다.  
+      아래는 현재 사용하고 있거나, 기존 프로젝트에서 자주 사용했던 기술 스택입니다.
+      
       <br>  
+      
       |<font size="3">Language</font>|<mark><font size="2">Java</font></mark> <mark><font size="2">Kotlin</font></mark>|
       |<font size="3">Architecture</font>|<mark><font size="2">MVC</font></mark> <mark><font size="2">MVP</font></mark> <mark><font size="2">MVVM</font></mark> <mark><font size="2">MVI(~ing)</font></mark>|
       |<font size="3">Stream</font>|<mark><font size="2">rxJava</font></mark> <mark><font size="2">rxKotlin</font></mark> <mark><font size="2">rxAndroid</font></mark> <mark><font size="2">Livedata</font></mark> <mark><font size="2">Coroutine</font></mark> <mark><font size="2">Flow</font></mark>|
