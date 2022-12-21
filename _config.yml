@@ -87,7 +87,7 @@ content:
             
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
-            <br><br><br><br><br>
+            <br><br><br>
       - layout: top-middle
         border: weak
         title: Rainus
@@ -138,7 +138,7 @@ content:
             
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
-            <br><br><br><br>
+            <br><br><br>
   - title: In ordinary days
     layout: text
     content: | 
