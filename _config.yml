@@ -44,7 +44,7 @@ content:
     layout: text
     content: | 
       아래는 현재 사용하고 있거나, 기존 프로젝트에서 자주 사용했던 기술 스택입니다.  
-      <br>
+      <br>  
       |<font size="3">Language</font>|<mark><font size="2">Java</font></mark> <mark><font size="2">Kotlin</font></mark>|
       |<font size="3">Architecture</font>|<mark><font size="2">MVC</font></mark> <mark><font size="2">MVP</font></mark> <mark><font size="2">MVVM</font></mark> <mark><font size="2">MVI(~ing)</font></mark>|
       |<font size="3">Stream</font>|<mark><font size="2">rxJava</font></mark> <mark><font size="2">rxKotlin</font></mark> <mark><font size="2">rxAndroid</font></mark> <mark><font size="2">Livedata</font></mark> <mark><font size="2">Coroutine</font></mark> <mark><font size="2">Flow</font></mark>|
@@ -59,7 +59,7 @@ content:
       |<font size="3">Communication</font>|<mark><font size="2">Jira</font></mark> <mark><font size="2">Slack</font></mark>|
       |<font size="3">Management</font>|<mark><font size="2">Analytics</font></mark> <mark><font size="2">Crashlytics</font></mark> <mark><font size="2">AppsFlyer</font></mark>|        
         
-      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <br>
   - title: Experience
     layout: list
     content:
@@ -107,7 +107,7 @@ content:
         link: https://www.bixolon.com/
         caption: 2018.03 ~ 2021.03
         description: |
-          **Bixolon Label Printer 관련 Android SDK 및 관련 App 담당 **  
+          **Bixolon Label Printer 관련 Android SDK 및 관련 App 담당**  
           <br>
           * Bixolon Label Printer Android SDK 개발 및 유지보수
             * 코어 모듈 리팩토링을 통해 인쇄 및 프린터 설정 기능 개선
@@ -126,7 +126,7 @@ content:
         link: https://zin.co.kr/
         caption: 2014.01 ~ 2017.09
         description: |
-          **SPC 그룹사 PC 브랜드 매장 발주용 Mobile POS App 개발 **
+          **SPC 그룹사 PC 브랜드 매장 발주용 Mobile POS App 개발**
           <br>
           * SPC Mobile POS Android App 개발 및 개선
             * 주문 내역 리스트 표시 속도 x% 개선
