@@ -42,7 +42,9 @@ about_content: |
 content:
   - title: Skill-Stack
     layout: text
-    content: |
+    content: | 
+      아래는 현재 사용하고 있거나, 기존 프로젝트에서 자주 사용했던 기술 스택입니다.  
+      <br>
       |<font size="3">Language</font>|<mark><font size="2">Java</font></mark> <mark><font size="2">Kotlin</font></mark>|
       |<font size="3">Architecture</font>|<mark><font size="2">MVC</font></mark> <mark><font size="2">MVP</font></mark> <mark><font size="2">MVVM</font></mark> <mark><font size="2">MVI(~ing)</font></mark>|
       |<font size="3">Stream</font>|<mark><font size="2">rxJava</font></mark> <mark><font size="2">rxKotlin</font></mark> <mark><font size="2">rxAndroid</font></mark> <mark><font size="2">Livedata</font></mark> <mark><font size="2">Coroutine</font></mark> <mark><font size="2">Flow</font></mark>|
@@ -67,7 +69,8 @@ content:
         link: https://www.danal.co.kr/
         caption: 2022.03 ~ 현재
         description: |
-          * 다날 다모음 Android App 개발
+          **다모음 Android App 개발 담당**  
+          <br>
           * 포인트 충전 시스템 개발
           * 실물 카드 관리 서비스 개발
           * 레거시코드 제거 및 최적화로 가독성 및 개발속도 향상
@@ -89,11 +92,14 @@ content:
         link: https://www.rainusbiz.com/ko/
         caption: 2021.07 ~ 2022.02
         description: |
+          **Rainus Player 신규 기능 개발 및 Front-end 개발 담당**   
+          <br>
           * Rainus Player 내 상품 가격태그 표시 기능 개발
             * 가격태그 관련 rating, reviews, advertise 등 컨텐츠 추가 및 제어  
-            
+          * Player용 Web Contents 개발 
+            * 고객사(CJ/BMW)에서 사용하는 Widget(Front-end) 개발
           * 사용 기술 스택  
-            * <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark>
+            * <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark> <mark>Javascript</mark> <mark>Css</mark>  
             <br><br><br><br><br>
       - layout: top-middle
         border: weak
@@ -101,6 +107,8 @@ content:
         link: https://www.bixolon.com/
         caption: 2018.03 ~ 2021.03
         description: |
+          **Bixolon Label Printer 관련 Android SDK 및 관련 App 담당 **  
+          <br>
           * Bixolon Label Printer Android SDK 개발 및 유지보수
             * 코어 모듈 리팩토링을 통해 인쇄 및 프린터 설정 기능 개선
           * Mobile printer용 결제 App 3사(KICC, NICE, KS-NET) 통합
@@ -118,7 +126,9 @@ content:
         link: https://zin.co.kr/
         caption: 2014.01 ~ 2017.09
         description: |
-          * SPC 그룹사 Mobile POS 및 점포 컨설팅 Android App 개발
+          **SPC 그룹사 PC 브랜드 매장 발주용 Mobile POS App 개발 **
+          <br>
+          * SPC Mobile POS Android App 개발 및 개선
             * 주문 내역 리스트 표시 속도 x% 개선
             * Logger 적용으로 디버그 용이성 증가
           * 파리크라상/파스쿠찌 점포 컨설팅 App 개발(관리자/슈퍼바이저 용)
