@@ -71,8 +71,11 @@ content:
         link: https://www.danal.co.kr/
         caption: 2022.03 ~ 현재
         description: |
-          **다모음 Android App 개발 담당**  
+          **다모음 Android App 개발 담당**
+           : 모바일 결제, 포인트 결제 및 충전, 실물 카드 발급 및 관리, 모바일 헌금하기 등 다날 대표 결제 플랫폼
+             
           <br>
+          **주요 업무 및 성과**
           * 포인트 충전 시스템 개발
           * 실물 카드 관리 서비스 개발
           * 레거시코드 제거 및 최적화로 가독성 및 개발속도 향상
@@ -87,15 +90,17 @@ content:
             
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
-            <br>
+            <br><br>
       - layout: top-middle
         border: weak
         title: Rainus
         link: https://www.rainusbiz.com/ko/
         caption: 2021.07 ~ 2022.02
         description: |
-          **Rainus Player 신규 기능 개발 및 Front-end 개발 담당**   
+          **Rainus Player 신규 기능 개발 및 Front-end 개발**   
+            : 광고용 Android Signage 기기에서 광고 및 컨텐츠 또는 가격태그 등을 표시   
           <br>
+          **주요 업무 및 성과**
           * Rainus Player 내 상품 가격태그 표시 기능 개발
             * 가격태그 관련 rating, reviews, advertise 등 컨텐츠 추가 및 제어  
           * Player용 Web Contents 개발 
@@ -109,8 +114,10 @@ content:
         link: https://www.bixolon.com/
         caption: 2018.03 ~ 2021.03
         description: |
-          **Bixolon Label Printer 관련 Android SDK 및 관련 App 담당**  
+          **Bixolon Printer(Label, Mobile) 관련 SDK 및 App 개발**
+            : 
           <br>
+          **주요 업무 및 성과**
           * Bixolon Label Printer Android SDK 개발 및 유지보수
             * 코어 모듈 리팩토링을 통해 인쇄 및 프린터 설정 기능 개선
           * Mobile printer용 결제 App 3사(KICC, NICE, KS-NET) 통합
@@ -128,8 +135,11 @@ content:
         link: https://zin.co.kr/
         caption: 2014.01 ~ 2017.09
         description: |
-          **SPC 그룹사 PC 브랜드 매장 발주용 Mobile POS App 개발**
+          **SPC 그룹사 Mobile POS 및 Cunsulting App 개발**
+            : SPC 그룹 파리크라상 브랜드 소속 가맹점에서 사용되는 주문 및 매출 관리 Mobile POS 개발  
+              상권, 상품, 계절 등 여러 지표에 따라 판매량을 분석하고 추천하는 Cunsulting App 개발
           <br>
+          **주요 업무 및 성과**
           * SPC Mobile POS Android App 개발 및 개선
             * 주문 내역 리스트 표시 속도 x% 개선
             * Logger 적용으로 디버그 용이성 증가
@@ -150,6 +160,7 @@ content:
     layout: text
     content: |
       다양한 프로젝트를 개발해오며 Android 개발자로서의 기술 스택 및 경험, 그리고 자질을 쌓아왔습니다. 지금도, 그리고 앞으로도 꾸준히 노력하겠습니다.  
+      기입된 프로젝트 외 기타 프로젝트 및 상세 내용은 [프로젝트 상세내역](https://github.com/bcchoi0202/resume) 에서 확인 가능합니다.
 
 # Footer
 footer_show_references: false
