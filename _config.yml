@@ -34,7 +34,7 @@ about_content: |
   - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많은
   - "함께"의 재미를 알고 소통을 즐길 줄 아는
   - 건강한 개발 문화를 함께 만들어 가는
-  <br><br><br><br><br><br><br><br>
+  <br>
 #  **저는 이런 근무 환경을 선호합니다.**
 #  - 출근과 퇴근시간을 본인이 결정할 수 있는
 #  - 의사결정이 투명하게 이뤄지고 관련 정보의 공유가 수평적인
@@ -44,7 +44,6 @@ content:
     layout: text
     content: | 
       아래는 현재 사용하고 있거나, 기존 프로젝트에서 자주 사용했던 기술 스택입니다.
-      
       <br>  
       
       |<font size="3">Language</font>|<mark><font size="2">Java</font></mark> <mark><font size="2">Kotlin</font></mark>|
@@ -90,7 +89,7 @@ content:
             
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
-            <br><br>
+            <br>
       - layout: top-middle
         border: weak
         title: Rainus
@@ -136,7 +135,7 @@ content:
             
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVC</mark> <mark>MVP</mark>  
-            <br><br><br>
+            <br>
       - layout: top-middle
         border: weak
         title: Zin Corp.
@@ -157,7 +156,7 @@ content:
             
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
-            <br><br><br>
+            <br>
   - title: In ordinary days
     layout: text
     content: | 
