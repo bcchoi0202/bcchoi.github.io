@@ -31,10 +31,10 @@ about_content: |
   - 사용자 관점을 최우선으로 생각하고 고민하는
   - 끊임 없이 기존 코드를 분석하고 개선하는
   - 새로운 기술을 배우고 검토 및 도입하는
-  - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많은
   - "함께"의 재미를 알고 소통을 즐길 줄 아는
   - 건강한 개발 문화를 함께 만들어 가는
-  <br><br><br><br><br><br><br><br>
+  - 재미와 건강, 함께 하는(할 수 있는) 것에 관심이 많은
+  <br>
 #  **저는 이런 근무 환경을 선호합니다.**
 #  - 출근과 퇴근시간을 본인이 결정할 수 있는
 #  - 의사결정이 투명하게 이뤄지고 관련 정보의 공유가 수평적인
@@ -44,7 +44,6 @@ content:
     layout: text
     content: | 
       아래는 현재 사용하고 있거나, 기존 프로젝트에서 자주 사용했던 기술 스택입니다.
-      
       <br>  
       
       |<font size="3">Language</font>|<mark><font size="2">Java</font></mark> <mark><font size="2">Kotlin</font></mark>|
@@ -61,7 +60,8 @@ content:
       |<font size="3">Communication</font>|<mark><font size="2">Jira</font></mark> <mark><font size="2">Slack</font></mark>|
       |<font size="3">Management</font>|<mark><font size="2">Analytics</font></mark> <mark><font size="2">Crashlytics</font></mark> <mark><font size="2">AppsFlyer</font></mark>|        
         
-      <br><br><br><br><br><br><br><br><br><br><br><br>
+      <br>
+
   - title: Experience
     layout: list
     content:
@@ -72,7 +72,10 @@ content:
         caption: 2022.03 ~ 현재
         description: |
           **다모음 Android App 개발 담당**
-           - 모바일 결제와 포인트 결제, 포인트 충전, 실물 카드 발급 및 관리, 모바일 헌금하기, 페이코인 결제 등의 기능을 제공하는 다날 대표 결제 플랫폼
+          
+          **주요 프로젝트**
+           * 다모음
+             * 모바일 결제와 포인트 결제, 포인트 충전, 실물 카드 발급 및 관리, 모바일 헌금하기, 바코드 결제 등의 기능을 제공하는 다날 대표 결제 플랫폼
 
           <br>
           **주요 업무 및 성과**
@@ -90,15 +93,18 @@ content:
             
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
-            <br><br>
+            <br>
       - layout: top-middle
         border: weak
         title: Rainus
         link: https://www.rainusbiz.com/ko/
         caption: 2021.07 ~ 2022.02
         description: |
-          **Rainus Player 신규 기능 개발 및 Front-end 개발 담당**   
-           - Rainus에서 제조한 Android Signage 기기에 광고 컨텐츠 재생 플레이어로 영상, 이미지, 가격표, 기타 컨텐츠 등을 일자, 시간대에 따라 표시    
+          **Rainus Player 신규 기능 개발 및 Front-end 개발 담당**  
+          
+          **주요 프로젝트**
+           * Rainus Player
+             - Rainus에서 제조한 Android Signage 기기에 광고 컨텐츠 재생 플레이어로 영상, 이미지, 가격표, 기타 컨텐츠 등을 일자, 시간대에 따라 표시    
           
           <br>
           **주요 업무 및 성과**
@@ -117,7 +123,7 @@ content:
         description: |
           **Bixolon Printer(Label, Mobile) 관련 SDK 및 App 개발**  
           
-          대표 프로젝트
+          **주요 프로젝트**
            * Bixolon Label Printer Android Sdk
              * Android Native 환경에서 각종 설정 및 인쇄 컨텐츠 추가 등을 지원하는 Label Printer 제어용 Sdk 
            * ICPay 결제 App
@@ -136,16 +142,20 @@ content:
             
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVC</mark> <mark>MVP</mark>  
-            <br><br><br>
+            <br>
       - layout: top-middle
         border: weak
         title: Zin Corp.
         link: https://zin.co.kr/
         caption: 2014.01 ~ 2017.09
         description: |
-          **SPC 그룹사 Mobile POS 및 Cunsulting App 개발**
-           - SPC 그룹 파리크라상 브랜드 소속 가맹점에서 사용되는 주문 및 매출 관리 Mobile POS 개발  
-           - 상권, 상품, 계절 등 여러 지표에 따라 판매량을 분석하고 추천하는 Cunsulting App 개발  
+          **SPC 그룹사 Mobile POS 및 Cunsulting App 개발**  
+          
+          **주요 프로젝트**
+           * SPC Mobile POS 
+             - SPC 그룹 파리크라상 브랜드 소속 가맹점에서 사용되는 주문 및 매출 관리 Mobile POS 개발  
+           * SPC PB TCR(Total Cunsulting Report)
+             - 상권, 상품, 계절 등 여러 지표에 따라 판매량을 분석하고 추천하는 Cunsulting App 개발  
           
           <br>
           **주요 업무 및 성과**
@@ -157,7 +167,19 @@ content:
             
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
-            <br><br><br>
+            <br>
+
+  - title: Education
+      layout: list
+      content:
+        - title: Java 개발자 실무 교육
+        - sub_title: 한국 소프트웨어 기술 협회
+        - caption: 2013.07 - 2013.12
+
+        - title: 한신대학교
+          sub_title: 컴퓨터 공학부
+          caption: 2006.03 - 2014.02
+
   - title: In ordinary days
     layout: text
     content: | 
