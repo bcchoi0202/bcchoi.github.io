@@ -75,7 +75,7 @@ content:
           
           **주요 프로젝트**
            * 다모음
-             * 모바일 결제와 포인트 결제, 포인트 충전, 실물 카드 발급 및 관리, 모바일 헌금하기, 바코드 결제 등의 기능을 제공하는 다날 대표 결제 플랫폼
+             * 모바일 결제와 포인트 결제, 포인트 충전, 실물 카드 발급 및 관리, 모바일 헌금하기, 페이코인 결제 등의 기능을 제공하는 다날 대표 결제 플랫폼
 
           <br>
           **주요 업무 및 성과**
@@ -170,15 +170,15 @@ content:
             <br>
 
   - title: Education
-      layout: list
-      content:
-        - title: Java 개발자 실무 교육
-        - sub_title: 한국 소프트웨어 기술 협회
-        - caption: 2013.07 - 2013.12
+    layout: list
+    content:
+      - title: Java 개발자 실무 교육
+      - sub_title: 한국 소프트웨어 기술 협회
+      - caption: 2013.07 - 2013.12
 
-        - title: 한신대학교
-          sub_title: 컴퓨터 공학부
-          caption: 2006.03 - 2014.02
+      - title: 한신대학교
+        sub_title: 컴퓨터 공학부
+        caption: 2006.03 - 2014.02
 
   - title: In ordinary days
     layout: text
