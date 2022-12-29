@@ -90,11 +90,12 @@ content:
             * Kotlin DSL 적용
             * Koin -> Hilt Migration
             * Compose Migration  
-            
+          
+          <br>
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
-            <br>
           
+          <br>
           * Danal 프로젝트 상세 내역은 아래 링크에서 확인 가능합니다.
             * [프로젝트 상세 보기](https://bcchoi0202.github.io/bblog/portfolio/danal_corporation/)
       - layout: top-middle
@@ -115,10 +116,12 @@ content:
             * 가격태그 관련 rating, reviews, advertise 등 컨텐츠 추가 및 제어  
           * Player용 Web Contents 개발 
             * 고객사(CJ/BMW)에서 사용하는 Widget(Front-end) 개발
+          
+          <br>
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark> <mark>Javascript</mark> <mark>Css</mark>  
-            <br>
-          
+            
+          <br>
           * Rainus 프로젝트 상세 내역은 아래 링크에서 확인 가능합니다.
             * [프로젝트 상세 보기](https://bcchoi0202.github.io/bblog/portfolio/rainus_corporation/)
       - layout: top-middle
@@ -145,11 +148,12 @@ content:
             * One Source 관리를 통한 유지보수성 향상 
           * Bixolon Printer Javascript SDK 개발
             * Web 환경에서의 프린터 접근 및 사용성 향상  
-            
+          
+          <br>  
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVC</mark> <mark>MVP</mark>  
-            <br>
           
+          <br>
           * Bixolon 프로젝트 상세 내역은 아래 링크에서 확인 가능합니다.
             * [프로젝트 상세 보기](https://bcchoi0202.github.io/bblog/portfolio/bixolon_corporation/)
       - layout: top-middle
@@ -172,12 +176,13 @@ content:
             * 주문 내역 리스트 표시 속도 x% 개선
             * Logger 적용으로 디버그 용이성 증가
           * 파리크라상/파스쿠찌 점포 컨설팅 App 개발(관리자/슈퍼바이저 용)
-            * Custom View 구현 및 적용으로 사용량 y% 증가  
-            
+            * Custom View 구현 및 적용으로 사용량 y% 증가
+          
+          <br>  
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
-            <br>
           
+            <br>
           * Zin Corp. 프로젝트 상세 내역은 아래 링크에서 확인 가능합니다.
             * [프로젝트 상세 보기](https://bcchoi0202.github.io/bblog/portfolio/zin_corporation/)
 
