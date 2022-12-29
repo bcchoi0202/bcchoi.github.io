@@ -94,6 +94,9 @@ content:
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Kotlin DSL</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Jetpack AAC</mark> <mark>Jetpack Compose</mark> <mark>Hilt</mark> <mark>MVVM</mark> <mark>Firebase</mark> <mark>AppsFlyer</mark>
             <br>
+          
+          * Danal 프로젝트 상세 내역은 아래 링크에서 확인 가능합니다.
+            * [프로젝트 상세 보기](https://bcchoi0202.github.io/bblog/portfolio/danal_corporation/)
       - layout: top-middle
         border: weak
         title: Rainus
@@ -115,6 +118,9 @@ content:
           * 사용 기술 스택  
             * <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>rxJava</mark> <mark>LiveData</mark> <mark>View/DataBinding</mark> <mark>Koin</mark> <mark>MVVM</mark> <mark>Javascript</mark> <mark>Css</mark>  
             <br>
+          
+          * Rainus 프로젝트 상세 내역은 아래 링크에서 확인 가능합니다.
+            * [프로젝트 상세 보기](https://bcchoi0202.github.io/bblog/portfolio/rainus_corporation/)
       - layout: top-middle
         border: weak
         title: Bixolon
@@ -138,11 +144,14 @@ content:
           * Mobile printer용 결제 App 3사(KICC, NICE, KS-NET) 통합
             * One Source 관리를 통한 유지보수성 향상 
           * Bixolon Printer Javascript SDK 개발
-            * Web 환경에서의 프린터 접근 및 사용성 향상   
+            * Web 환경에서의 프린터 접근 및 사용성 향상  
             
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>Kotlin</mark> <mark>Retrofit</mark> <mark>Glide</mark> <mark>MVC</mark> <mark>MVP</mark>  
             <br>
+          
+          * Bixolon 프로젝트 상세 내역은 아래 링크에서 확인 가능합니다.
+            * [프로젝트 상세 보기](https://bcchoi0202.github.io/bblog/portfolio/bixolon_corporation/)
       - layout: top-middle
         border: weak
         title: Zin Corp.
@@ -168,6 +177,9 @@ content:
           * 사용 기술 스택  
             * <mark>Java</mark> <mark>log4j</mark> <mark>AChartEngine</mark> <mark>MVC</mark>
             <br>
+          
+          * Zin Corp. 프로젝트 상세 내역은 아래 링크에서 확인 가능합니다.
+            * [프로젝트 상세 보기](https://bcchoi0202.github.io/bblog/portfolio/zin_corporation/)
 
   - title: Education
     layout: list
